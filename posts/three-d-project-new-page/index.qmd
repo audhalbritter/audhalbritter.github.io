@@ -1,0 +1,10 @@
+---
+title: "THREE-D project: new page"
+date: 2019-05-07
+aliases:
+  - /three-d-project-new-page/
+categories:
+  - "Allgemein"
+description: "There is also a new page about the THREE-D project here."
+---
+There is also a new page about the THREE-D project [here](/research/three-d/).

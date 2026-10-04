@@ -1,0 +1,13 @@
+---
+title: "R art by Allison Horst"
+date: 2018-11-26
+aliases:
+  - /r-art-by-allison-horst/
+categories:
+  - "Allgemein"
+  - "R code"
+description: "I love the R art by Allison Horst, @allison_horst."
+---
+I love the R art by Allison Horst, <span class="username u-dir" dir="ltr"><a href="https://twitter.com/allison_horst" class="ProfileHeaderCard-screennameLink u-linkComplex js-nav">@<strong>allison_horst</strong></a>.</span>
+
+[![](media/Bildschirmfoto-2018-11-26-um-19.57.41-292x300.png)](media/Bildschirmfoto-2018-11-26-um-19.57.41.png)

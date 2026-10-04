@@ -1,0 +1,12 @@
+---
+title: "Markdown – cheat sheet"
+date: 2016-02-10
+aliases:
+  - /markdown-cheat-sheet/
+categories:
+  - "R code"
+description: "I am creating my first markdown for the next blog entry. It’s very useful, because you can combine texte and R script using R. And while I was googling how to start I found this very useful cheatsheet by R markdown R Studio."
+---
+I am creating my first markdown for the next blog entry. It’s very useful, because you can combine texte and R script using R. And while I was googling how to start I found this very useful [cheatsheet](media/cheatsheet.pdf) by [R markdown R Studio](http://rmarkdown.rstudio.com/).
+
+<a href="media/Bildschirmfoto-2016-02-09-um-23.05.30.png" rel="attachment wp-att-173">![Bildschirmfoto 2016-02-09 um 23.05.30](media/Bildschirmfoto-2016-02-09-um-23.05.30-1024x679.png)</a>

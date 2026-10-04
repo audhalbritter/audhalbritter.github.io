@@ -1,0 +1,11 @@
+---
+title: "A Basic Guide of Data Visualization"
+date: 2018-01-28
+aliases:
+  - /a-basic-guide-of-data-visualization/
+categories:
+  - "Presenting"
+  - "R code"
+description: "This is a great guide to fundamentals of data visualization by Claus O. Wilkes. It explains general principles and concepts for preparing figures. It’s not an R book, but all the code to make the figures. is available on git."
+---
+This is a great guide to [fundamentals of data visualization](http://serialmentor.com/dataviz/index.html) by Claus O. Wilkes. It explains general principles and concepts for preparing figures. It’s not an R book, but all the code to make the figures.[![](media/Bildschirmfoto-2018-01-28-um-21.32.02-1024x803.png)](media/Bildschirmfoto-2018-01-28-um-21.32.02.png) [![](media/Bildschirmfoto-2018-01-28-um-21.32.08-1024x630.png)](media/Bildschirmfoto-2018-01-28-um-21.32.08.png)is available on git.

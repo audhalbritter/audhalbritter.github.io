@@ -1,0 +1,21 @@
+---
+title: "R Studio keyboard shortcuts"
+date: 2016-07-27
+aliases:
+  - /r-keyboard-short-cuts/
+categories:
+  - "R code"
+description: "When you code a lot in R it is nice to work with the keyboard. There are some commands and code you will repeat again and again and it is useful to know that there are shortcuts for certain code and commands. R studio has made a whole list of shortcuts: rstudio-IDE-cheatsheet. He"
+---
+When you code a lot in R it is nice to work with the keyboard. There are some commands and code you will repeat again and again and it is useful to know that there are shortcuts for certain code and commands. R studio has made a whole list of shortcuts: [rstudio-IDE-cheatsheet](http://shortcuts). Here a small selection of what I have found useful:
+
+|                              |                 |                  |
+|------------------------------|-----------------|------------------|
+|                              | **Mac**         | **Windows**      |
+| Move cursor to start of line | Cmd+\<          | home             |
+| Move cursor to end of line   | Cmd+\>          | end              |
+| Change working directory     | Ctrl+Shift+H    | Ctrl+Shift+H     |
+| Select to line start/end     | Cmd+Shift+\</\> | Ctrl+Shift+\</\> |
+| Insert \<-                   | Option+-        | Alt+-            |
+| Insert %\>%                  | Cmd+Shift+M     | Ctrl+Shift+M     |
+| Copy line up/down            | Cmd+Option+▴▾   | Shift+Alt+▴▾     |

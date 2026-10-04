@@ -1,0 +1,12 @@
+---
+title: "Radiation shields for iButtons"
+date: 2016-07-03
+aliases:
+  - /radiation-shields-for-ibuttons/
+categories:
+  - "Phenology"
+description: "We are measuring temperature with iButtons in the mountains. To do that we built little houses to shield the iButtons from solar radiation."
+---
+We are measuring temperature with iButtons in the mountains. To do that we built little houses to shield the iButtons from solar radiation.
+
+[![Foto 02.07.16, 09 11 42](media/Foto-02.07.16-09-11-42-768x1024.jpg)](media/Foto-02.07.16-09-11-42.jpg)

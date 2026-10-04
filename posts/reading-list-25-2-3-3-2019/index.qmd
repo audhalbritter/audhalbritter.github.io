@@ -1,0 +1,16 @@
+---
+title: "Reading list 25.2 – 3.3.2019"
+date: 2019-03-05
+aliases:
+  - /reading-list-25-2-3-3-2019/
+categories:
+  - "Reading"
+description: "Managing 5 papers this time. Denelle et al. 2019. Distinguishing the signatures of local environmental filtering and regional trait range limits in the study of trait–environment relationships. OIKOS. Ettinger et al. 2019. How do climate change experiments alter plot-scale climat"
+---
+Managing 5 papers this time.
+
+Denelle et al. 2019. [Distinguishing the signatures of local environmental filtering and regional trait range limits in the study of trait–environment relationships](https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.05851). *OIKOS*.  
+Ettinger et al. 2019. [How do climate change experiments alter plot-scale climate?](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13223) *Ecology Letters*  
+Sandel et al. 2010. [Contrasting trait responses in plant communities to experimental and geographic variation in precipitation](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/j.1469-8137.2010.03382.x). *New Phytologist.* 188: 565–575.  
+Fridley et al. 2016. [Longer growing seasons shift grassland vegetation towards more-productive species](https://www.nature.com/articles/nclimate3032). *Nature Climate Change*, *6*(9), 865.  
+Mazziotta et al. 2018. [Scaling functional traits to ecosystem processes: Towards a mechanistic understanding in peat mosses](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.13110). *Journal of Ecology*. 107:843–859.

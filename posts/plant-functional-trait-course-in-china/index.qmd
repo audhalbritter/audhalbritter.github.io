@@ -1,0 +1,12 @@
+---
+title: "Plant Functional Trait Course in China"
+date: 2016-04-21
+aliases:
+  - /plant-functional-trait-course-in-china/
+categories:
+  - "Allgemein"
+description: "The 2016 International Plant Functional Traits Course will offer a hands-on, field-based exploration of plant functional traits, along with experience in the usage of plant traits data in climate-change research and ecosystem ecology. Trait-based ecology offers an important set o"
+---
+The 2016 [International Plant Functional Traits Course](http://www.uib.no/en/rg/EECRG/97477/plant-functional-traits-course-2#) will offer a hands-on, field-based exploration of plant functional traits, along with experience in the usage of plant traits data in climate-change research and ecosystem ecology. Trait-based ecology offers an important set of methods and new approaches that enables a more powerful approach to predict how climate and biotic interactions shape the diversity of communities and functioning of ecosystems. This course will provide students with the essential background and skills needed for trait-based ecology.
+
+<a href="media/Red-stones.jpg" rel="attachment wp-att-226">![Red stones](media/Red-stones-1024x683.jpg)</a>

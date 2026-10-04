@@ -1,0 +1,14 @@
+---
+title: "Anthropocene"
+date: 2019-05-19
+aliases:
+  - /anthropocene/
+categories:
+  - "Allgemein"
+description: "Seven maps showing the human footprint. Made here."
+---
+Seven maps showing the human footprint. Made [here](https://www.reddit.com/user/Reldresal).
+
+<figure class="wp-block-image">
+![](media/human-footprint-full-706x1024.jpg)
+</figure>

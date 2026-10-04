@@ -1,0 +1,9 @@
+---
+title: "Plant physiological traits – leaf temperature"
+date: 2018-07-21
+aliases:
+  - /plant-physiological-traits-leaf-temperature/
+categories:
+  - "Field work / course"
+---
+<span class="mce_SELRES_start" mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;">﻿</span>

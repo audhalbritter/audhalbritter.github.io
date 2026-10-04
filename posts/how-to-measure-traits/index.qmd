@@ -1,0 +1,10 @@
+---
+title: "How to measure traits"
+date: 2018-07-18
+aliases:
+  - /how-to-measure-traits/
+categories:
+  - "Field work / course"
+  - "Traits"
+---
+

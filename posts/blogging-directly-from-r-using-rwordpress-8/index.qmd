@@ -1,0 +1,42 @@
+---
+title: "Blogging directly from R using RWordPress"
+date: 2016-04-03
+aliases:
+  - /blogging-directly-from-r-using-rwordpress-8/
+categories:
+  - "Allgemein"
+description: "My last blog post was published using RMarkdown. It took me a while to intall all the packages needed but the publishing was very easy.In fact, it is 2 lines of code. But let’s start with the hard part getting all the packages installed and running. The RWordPress package is curr"
+---
+My last blog post was published using RMarkdown. It took me a while to intall all the packages needed but the publishing was very easy.In fact, it is 2 lines of code. But let’s start with the hard part getting all the packages installed and running.
+
+The RWordPress package is currently on github (February 2016). It can be installed directly from there, but for that the devtools package is needed. To connect to WordPress we need the XMLRPC package. And you need of course the RWordPress package and the knitr package to make the blog post.
+
+Let’s install the packages.
+
+``` r
+install.packages("devtools")
+library(devtools)
+
+install_github("duncantl/XMLRPC")
+install_github("duncantl/RWordPress")
+install.packages("knitr")
+
+library(XMLRPC)
+library(RWordPress)
+library(knitr)
+```
+
+Once your blog post is writen you can check how it looks. For this you press the “Knit HTML” button on top (in R Studio). If everything looks fine, you are ready to publish. With options you define your username, password and url with “xmlrcp.php” at the end.
+
+In “knit2wp” you define the filename of the Rmd document and the title of the blog post. You can publish directly, but by setting publish = FALSE you can make a draft and publish it later. With action you can create a new or edit an existing post.
+
+``` r
+options(WordPressLogin = c(user = 'Password'), WordPressURL = '/xmlrpc.php')
+knit2wp('RWordPress.Rmd', title = 'Blogging directly from R using RWordPress', publish = FALSE) 
+```
+
+You can find more information here and here:  
+<http://yihui.name/knitr/demo/wordpress/>  
+<http://3.14a.ch/archives/2015/03/08/how-to-publish-with-r-markdown-in-wordpress/>
+
+Have fun bloggin!

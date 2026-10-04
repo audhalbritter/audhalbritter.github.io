@@ -1,0 +1,19 @@
+---
+title: "Reading list 14. – 20. January 2019"
+date: 2019-01-14
+aliases:
+  - /reading-list-14-20-january-2019/
+categories:
+  - "Allgemein"
+  - "Reading"
+description: "Wieczynski et al. 2018. Climate shapes and shifts functional biodiversity in forests worldwide. PNAS.116 (2) 587-592Alexander et al. 2018. Lags in the response of mountain plant communities to climate change. GCB. 24:563–579Flynn & Wolkovich. 2018. Temperature and photoperiod dri"
+---
+<figure class="wp-block-image is-resized">
+![](media/Bildschirmfoto-2019-01-06-um-18.21.33.png)
+</figure>
+
+Wieczynski et al. 2018. [Climate shapes and shifts functional biodiversity in forests worldwide](https://www.pnas.org/content/116/2/587?etoc=). *PNAS*.116 (2) 587-592  
+Alexander et al. 2018. [Lags in the response of mountain plant communities to climate change](https://onlinelibrary.wiley.com/doi/10.1111/gcb.13976). *GCB*. 24:563–579  
+Flynn & Wolkovich. 2018. [Temperature and photoperiod drive spring phenology across all species in a temperate forest community](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15232). *New Phytologist*. 219:1353–1362  
+Losapio et al. 2018. [The assembly of a plant network in alpine vegetation](https://onlinelibrary.wiley.com/doi/full/10.1111/jvs.12681). *J Veg Sci*. 29:999–1006  
+Gross et al. 2018. [Functional trait diversity maximizes ecosystem multifunctionality](https://www.nature.com/articles/s41559-017-0132). *Nat Eco Evol*. 0132

@@ -1,0 +1,18 @@
+---
+title: "Working and Learning in a Field Excursion"
+date: 2018-06-01
+aliases:
+  - /working-and-learning-in-a-field-excursion/
+categories:
+  - "Papers"
+description: "A colleague has published an article on how biology students learn on field excursions. In addition, to study and learn about nature, these students were themselves being observed by Torstein Nielsen Hole, currently a PhD candidate at bioceed, university of Bergen. For this study"
+---
+A colleague has published an article on how biology students learn on field excursions. In addition, to study and learn about nature, these students were themselves being observed by Torstein Nielsen Hole, currently a PhD candidate at bioceed, university of Bergen.
+
+For this study he joined a field course on Svalbard. It’s interesting to read about how biologists discuss their work in the field. And the article covers all from bare soil, death and guns (protection from polar).
+
+<div class="citation__top">
+
+# [Working and Learning in a Field Excursion](https://www.lifescied.org/doi/10.1187/cbe.17-08-0185)
+
+</div>

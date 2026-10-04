@@ -1,0 +1,14 @@
+---
+title: "Greening up the mountain"
+date: 2018-04-19
+aliases:
+  - /greening-up-the-mountain/
+categories:
+  - "Papers"
+description: "Our recent comment in PNAS on phenology, Hopkins bioclimatic law and art. Early view available here."
+---
+Our recent comment in PNAS on phenology, Hopkins bioclimatic law and art.
+
+Early view available [here](https://doi.org/10.1073/pnas.1721285115).
+
+[![](media/ChillingPlot-1024x819.jpeg)](media/ChillingPlot.jpeg)

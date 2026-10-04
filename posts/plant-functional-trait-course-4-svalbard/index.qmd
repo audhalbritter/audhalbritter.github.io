@@ -1,0 +1,9 @@
+---
+title: "Plant Functional Trait Course 4 – Svalbard"
+date: 2018-07-14
+aliases:
+  - /plant-functional-trait-course-4-svalbard/
+categories:
+  - "Field work / course"
+---
+

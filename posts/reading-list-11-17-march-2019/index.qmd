@@ -1,0 +1,17 @@
+---
+title: "Reading list 11. – 17. March 2019"
+date: 2019-03-17
+aliases:
+  - /reading-list-11-17-march-2019/
+categories:
+  - "Reading"
+description: "Green and MacLeod 2015. SIMR: an R package for power analysis of generalized linear mixed models by simulation. Methods in Ecology and Evolution. 7(4): 493-498.Defossez et al. 2011. Do interactions between plant and soil biota change with elevation? A study on Fagus sylvatica. Bi"
+---
+<figure class="wp-block-image">
+![](media/book-stack-1024x576.jpg)
+</figure>
+
+Green and MacLeod 2015. [SIMR: an R package for power analysis of generalized linear mixed models by simulation](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12504). *Methods in Ecology and Evolution*. 7(4): 493-498.  
+Defossez et al. 2011. [Do interactions between plant and soil biota change with elevation? A study on *Fagus sylvatica.*](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2011.0236) *Biol. Lett*. 7, 699–701.  
+Giling et al. 2019. [Plant diversity alters the representation of motifs in food webs](https://www.nature.com/articles/s41467-019-08856-0). *Nature communitcation*. **10**, Article number: 1226.  
+Cameron et al. 2019. [Global mismatches in aboveground and belowground biodiversity](https://onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13311). Conservation Biology.

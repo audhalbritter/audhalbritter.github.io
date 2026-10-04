@@ -1,0 +1,27 @@
+---
+title: "Spring flowers in Mount Gongga"
+date: 2019-06-15
+aliases:
+  - /spring-flowers-in-mount-gongga/
+categories:
+  - "Allgemein"
+  - "Field work / course"
+description: "Last week I was in Mount Gongga setting up a new experiment. All the spring flowering was still in bloom. Here are just a few of them…"
+---
+Last week I was in Mount Gongga setting up a new experiment. All the spring flowering was still in bloom. Here are just a few of them…
+
+<figure class="wp-block-image">
+![](media/MG_1692-1024x683.jpg)
+</figure>
+
+<figure class="wp-block-image">
+![](media/MG_1702-683x1024.jpg)
+</figure>
+
+<figure class="wp-block-image">
+![](media/MG_1704-1024x683.jpg)
+</figure>
+
+<figure class="wp-block-image">
+![](media/MG_1705-1024x683.jpg)
+</figure>

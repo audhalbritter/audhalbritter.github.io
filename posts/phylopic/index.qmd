@@ -1,0 +1,30 @@
+---
+title: "PhyloPic"
+date: 2018-11-06
+aliases:
+  - /phylopic/
+categories:
+  - "Allgemein"
+description: "I just discoverd the coolest thing ever! PhyloPic, a database with reusable silhouette images of organisms. Each image is available under a Creative Commons license and can be reused (for non-commercial work), some need to be attributed. Medusozoa by Walker Pett Fragaria, unknown"
+---
+I just discoverd the coolest thing ever! [PhyloPic](http://www.phylopic.org/), a database with reusable silhouette images of organisms. Each image is available under a <a href="http://creativecommons.org/" data-original-title="">Creative Commons</a> license and can be reused (for non-commercial work), some need to be attributed.
+
+[![](media/PhyloPic.839b9df7.Walker-Pett.Medusozoa-300x245.png)](media/PhyloPic.839b9df7.Walker-Pett.Medusozoa.png)
+
+**Medusozoa by [Walker Pett](http://www.phylopic.org/image/839b9df7-c97f-444a-a611-95609e950960/)**
+
+ 
+
+[![](media/PhyloPic.29f553ac.Fragaria_Fragaria-vesca-187x300.png)](media/PhyloPic.29f553ac.Fragaria_Fragaria-vesca.png)
+
+**Fragaria**, unknown creator.
+
+ 
+
+[![](media/PhyloPic.92bbb65e.Collin-Gross.Caprella_Caprella-californica_Caprellidae_Caprellinae-212x300.png)](media/PhyloPic.92bbb65e.Collin-Gross.Caprella_Caprella-californica_Caprellidae_Caprellinae.png)
+
+**Caprealla by [Collin Gross](http://www.phylopic.org/image/92bbb65e-a626-4047-9e13-33a2f1154132/), see **<a href="http://creativecommons.org/licenses/by/3.0/" data-bind="attr: { href: $parent.image().license().url }">license agreement</a>
+
+ 
+
+And here [instructions](https://twitter.com/TrevorABranch/status/1059551232652533761) by <span class="username u-dir" dir="ltr"><a href="https://twitter.com/TrevorABranch" class="ProfileHeaderCard-screennameLink u-linkComplex js-nav">@TrevorABranch</a> </span>how to insert a silhouette of an animal or plant into your R plot!

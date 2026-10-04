@@ -1,0 +1,44 @@
+---
+title: "How to prepare a manuscript for publication?"
+date: 2016-01-13
+aliases:
+  - /how-to-prepare-a-manuscript-for-publication/
+categories:
+  - "Allgemein"
+description: "If you are a scientist, you want to publish your work at some point. Other scientists in your field should read and learn from your work. And in science a publication is usually a paper in a journal. Publishing a paper can be hard work if you do it for the first time (also later)"
+---
+If you are a scientist, you want to publish your work at some point. Other scientists in your field should read and learn from your work. And in science a publication is usually a paper in a journal. Publishing a paper can be hard work if you do it for the first time (also later), but you’ll learn and get better at it. The first step is to prepare a manuscript that you send to a journal. Here are some of my experiences, how to do it.
+
+I am an ecologist and some things might only apply to this field, but I think most journals have a similar style and these ideas can be used everywhere.
+
+Each journal will provide author guidelines. It is very important to read these very carefully before starting anything. The journals specify what type of articles they are interested in. Think carefully if your study fits into the journal. A good idea is to look at a recent issue to see what kind of articles there are. Some journals ask for an abstract before telling you if they want you to send in the full manuscript. Another important point to check is if you are ok with their conditions? For example, some journals want you to provide your data, or in some journals you have to pay for colour figures. Make sure you are aware of their requirements.
+
+**Content and structure**
+
+- Language: most articles have to be written in English. If you are not a native English speaker it is a good idea to let a native speaker read your text or somebody with lot’s of experience.
+- Title: add a short and catchy title. It’s the first thing your reader will see!
+- Whatever you do, be consistent throughout the manuscript: use the same expressions for things and write in the same style.
+- The key words should be words not used in the title but important terms in the manuscript
+- Usually research articles follow this structure: title page, abstract, introduction, method and materials, results, discussion, acknowledgements, references, tables, figure captions.
+- What information is needed on the title page?
+  - Title
+  - Author names and their affiliation, email address
+  - Running title: is an abbreviated title, which is usually printed at the top of the text pages and allows the reader to determine which paper they are looking at.
+  - Corresponding author: is usually the author that is responsible for the correspondence throughout the publication process.
+
+**Formatting style**
+
+- Use a recent paper as a template. Not to copy but as guidance.
+- Add line numbering: it’s easier for anybody reading your text to refer to a specific position in your text.
+- Double spacing makes the text more readable.
+- Do not justify the right margin. It is maybe not as aesthetically pleasing, but far more readable.
+- Add page numbers! Have you ever printed a 30-page text and then mixed the pages?
+- Keep to the word count or page allowance. If you don’t, it is very easy for the editor to reject your manuscript.
+- Check the requirements for figures and tables: quality of figures, where and how to place the legend, are coloured figures allowed or do you need to pay for it and how should you refer to them (Fig. 1a or Figure 1A). How do you submit figures and tables? Some journals want them in the text (e.g. one table per page), some want you to upload the figures separately.
+- How does the supplementary material need to be presented? In a separate file? And how should you refer to the supplement material (see Appendix Fig. S1)?
+- What format of your manuscript is allowed? Word, LaTex, PDF,…
+- Check your reference list very carefully! Number allowance, format, order. It is very easy to make mistakes here and not all programs provide correct references. Are the species names in italics? Usually there should not be Capital Letters in the Title unless it is a Location or a Name.
+
+By following these instructions, it is not guaranteed that your paper gets accepted. But if you keep to “the code” the editor is more willing to have a real look at the content of your manuscript and not send it back right away.
+
+Good luck preparing your first manuscript and let me know about your experiences.

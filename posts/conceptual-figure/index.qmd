@@ -1,0 +1,13 @@
+---
+title: "Conceptual figure"
+date: 2018-11-22
+aliases:
+  - /conceptual-figure/
+categories:
+  - "Allgemein"
+  - "Papers"
+description: "Playing with illustrator to make a conceptual figure for THE seedclim paper."
+---
+Playing with illustrator to make a conceptual figure for THE seedclim paper.
+
+[![](media/CommunityPaper-300x228.jpg)](media/CommunityPaper.jpg)

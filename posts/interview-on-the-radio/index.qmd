@@ -1,0 +1,14 @@
+---
+title: "Interview on the radio"
+date: 2019-10-09
+aliases:
+  - /interview-on-the-radio/
+categories:
+  - "Allgemein"
+description: "I was the on the radio @stadtfilter yesterday talking about my work, #RaspberryPi’s, traits and climate change. The interview is in Swiss German and you can listen to it here."
+---
+I was the on the radio [@stadtfilter](https://twitter.com/stadtfilter) yesterday talking about my work, [\#RaspberryPi](https://twitter.com/hashtag/RaspberryPi?src=hashtag_click)’s, traits and climate change. The interview is in Swiss German and you can listen to it [here](https://nerdfunk.ch/podlove/file/1070/s/download/c/select-show/191008-Nerdfunk-497.mp3).
+
+<figure class="wp-block-image is-resized">
+![](media/Foto-08.10.19-19-20-44-1024x768.jpg)
+</figure>

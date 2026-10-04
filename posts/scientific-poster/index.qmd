@@ -1,0 +1,18 @@
+---
+title: "Scientific poster"
+date: 2017-01-04
+aliases:
+  - /scientific-poster/
+categories:
+  - "Presenting"
+description: "Young scientists might present their master thesis or the idea of you PhD with a poster instead of a presentation. At my first conference, I presented a poster and was relieved not having to speak to hundreds of people. But making a good poster (that people actually read) is diff"
+---
+Young scientists might present their master thesis or the idea of you PhD with a poster instead of a presentation. At my first conference, I presented a poster and was relieved not having to speak to hundreds of people.
+
+But making a good poster (that people actually read) is difficult and takes time. Don’t do it last-minute!
+
+[Here](http://colinpurrington.com/tips/poster-design) I found a useful guide to make a poster by Colin Purrington.
+
+ 
+
+[![](media/Bildschirmfoto-2017-01-04-um-11.07.07-1024x644.png)](media/Bildschirmfoto-2017-01-04-um-11.07.07.png)

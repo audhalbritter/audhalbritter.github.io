@@ -1,0 +1,9 @@
+---
+title: "Pyramiden"
+date: 2018-07-28
+aliases:
+  - /pyramiden/
+categories:
+  - "Field work / course"
+---
+

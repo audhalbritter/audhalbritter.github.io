@@ -1,0 +1,14 @@
+---
+title: "New article from our lab in GCE on population dynamics in grasslands"
+date: 2016-02-14
+aliases:
+  - /new-article-from-our-lab-in-gce-on-population-dynamics-in-grasslands/
+categories:
+  - "Allgemein"
+description: "From facilitation to competition: temperature-driven shift in dominant plant interactions affects population dynamics in semi-natural grasslands Siri L. Olsen, Joachim P. Töpper, Olav Skarpaas, Vigdis Vandvik and Kari Klanderud Biotic interactions are often ignored in assessments"
+---
+# From facilitation to competition: temperature-driven shift in dominant plant interactions affects population dynamics in semi-natural grasslands
+
+Siri L. Olsen, Joachim P. Töpper, Olav Skarpaas, Vigdis Vandvik and Kari Klanderud
+
+Biotic interactions are often ignored in assessments of climate change impacts. However, climate-related changes in species interactions, often mediated through increased dominance of certain species or functional groups, may have important implications for how species respond to climate warming and altered precipitation patterns. We examined how a dominant plant functional group affected the population dynamics of four co-occurring forb species by experimentally removing graminoids in semi-natural grasslands. Specifically, we explored how the interaction between dominants and subordinates varied with climate by replicating the removal experiment across a climate grid consisting of twelve field sites spanning broad-scale temperature and precipitation gradients in southern Norway. Biotic interactions affected population growth rates of all study species, and the net outcome of interactions between dominants and subordinates switched from facilitation to competition with increasing temperature along the temperature gradient. The impacts of competitive interactions on subordinates in the warmer sites could primarily be attributed to reduced plant survival. Whereas the response to dominant removal varied with temperature, there was no overall effect of precipitation on the balance between competition and facilitation. Our findings suggest that global warming may increase the relative importance of competitive interactions in semi-natural grasslands across a wide range of precipitation levels, thereby favouring highly competitive dominant species over subordinate species. As a result, semi-natural grasslands may become increasingly dependent on disturbance (i.e. traditional management such as grazing and mowing) to maintain viable populations of subordinate species and thereby biodiversity under future climates. Our study highlights the importance of population-level studies replicated under different climatic conditions for understanding the underlying mechanisms of climate change impacts on plants.

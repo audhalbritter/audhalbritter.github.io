@@ -1,0 +1,12 @@
+---
+title: "Wes Anderson Palettes"
+date: 2019-11-01
+aliases:
+  - /wes-anderson-palettes/
+categories:
+  - "R code"
+description: "Do you also love Wes Anderson movies? Today, I learnt that there are Wes Anderson colour palettes for R. So from now on you can colour your ggplots according to Rushmore, The Grand Budapest Hotel or The Isle of Dogs."
+---
+Do you also love Wes Anderson movies? Today, I learnt that there are [Wes Anderson colour palettes](https://github.com/karthik/wesanderson) for R. So from now on you can colour your ggplots according to Rushmore, The Grand Budapest Hotel or The Isle of Dogs.
+
+[![](media/Bildschirmfoto-2019-11-01-um-16.20.56-300x175.png)](media/Bildschirmfoto-2019-11-01-um-16.20.56.png)

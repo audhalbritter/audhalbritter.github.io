@@ -1,0 +1,14 @@
+---
+title: "Trait differentiation and adaptation of plants along elevation gradients"
+date: 2018-04-20
+aliases:
+  - /trait-differentiation-and-adaptation-of-plants-along-elevation-gradients/
+categories:
+  - "Papers"
+description: "New review on trait differentiation and adaptation of plants along elevation gradients. Studies of genetic adaptation in plant populations along elevation gradients in mountains have a long history, but there has until now been neither a synthesis of how frequently plant populati"
+---
+New [review](https://doi.org/10.17605/OSF.IO/YFJ9M) on trait differentiation and adaptation of plants along elevation gradients.
+
+![](media/Fig.1_Worldmap_GGPlot5.jpg)
+
+Studies of genetic adaptation in plant populations along elevation gradients in mountains have a long history, but there has until now been neither a synthesis of how frequently plant populations exhibit adaptation to elevation nor an evaluation of how consistent underlying trait differences across species are. We reviewed studies of adaptation along elevation gradients (i) from a meta‐analysis of phenotypic differentiation of three traits (height, biomass and phenology) from plants growing in 70 common garden experiments; (ii) by testing elevation adaptation using three fitness proxies (survival, reproductive output and biomass) from 14 reciprocal transplant experiments; (iii) by qualitatively assessing information at the molecular level, from 10 genomewide surveys and candidate gene approaches. We found that plants originating from high elevations were generally shorter and produced less biomass, but phenology did not vary consistently. We found significant evidence for elevation adaptation in terms of survival and biomass, but not for reproductive output. Variation in phenotypic and fitness responses to elevation across species was not related to life history traits or to environmental conditions. Molecular studies, which have focussed mainly on loci related to plant physiology and phenology, also provide evidence for adaptation along elevation gradients. Together, these studies indicate that genetically based trait differentiation and adaptation to elevation are widespread in plants. We conclude that a better understanding of the mechanisms underlying adaptation, not only to elevation but also to environmental change, will require more studies combining the ecological and molecular approaches.

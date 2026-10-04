@@ -1,0 +1,14 @@
+---
+title: "My top 8 dplyr functions"
+date: 2019-10-15
+aliases:
+  - /my-top-8-dplyr-functions/
+categories:
+  - "R code"
+description: "I made a overview of the dplyr functions i use most often. The overview is heavily adapted from RStudio Cheat Sheets, and I made it for the students in my Ecology class. Yes, we do use R in a basic ecology class. Here you can download a pdf."
+---
+I made a overview of the dplyr functions i use most often. The overview is heavily adapted from [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/), and I made it for the students in my Ecology class. Yes, we do use R in a basic ecology class. Here you can download a [pdf](media/Dplyr.pdf).
+
+<figure class="wp-block-image">
+![](media/Dplyr.jpg)
+</figure>

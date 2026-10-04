@@ -1,0 +1,15 @@
+---
+title: "Ten important points about open data"
+date: 2019-06-19
+aliases:
+  - /ten-important-points-about-open-data/
+categories:
+  - "Allgemein"
+  - "Papers"
+description: "From Renaut et al. 2018. Management, Archiving, and Sharing for Biologists and the Role of Research Institutions in the Technology-Oriented Age. Bio Science 68 (6) 400–411."
+---
+From Renaut et al. 2018. [Management, Archiving, and Sharing for Biologists and the Role of Research Institutions in the Technology-Oriented](https://academic.oup.com/bioscience/article/68/6/400/4983937) Age. *Bio Science* 68 (6) 400–411.
+
+<figure class="wp-block-image">
+![](media/Bildschirmfoto-2019-06-19-um-10.40.01-874x1024.png)
+</figure>

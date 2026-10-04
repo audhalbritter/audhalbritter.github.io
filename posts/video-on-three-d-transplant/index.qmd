@@ -1,0 +1,22 @@
+---
+title: "Video on Three-D transplant"
+date: 2019-08-15
+aliases:
+  - /video-on-three-d-transplant/
+categories:
+  - "3D"
+  - "Field work / course"
+---
+<figure>
+<div class="iframe">
+<div id="player">
+
+</div>
+<div class="player-unavailable">
+<h1 id="det-oppsto-en-feil." class="message">Det oppsto en feil.</h1>
+<div class="submessage">
+Kan ikke kjøre JavaScript.
+</div>
+</div>
+</div>
+</figure>

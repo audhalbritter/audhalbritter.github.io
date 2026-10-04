@@ -1,0 +1,18 @@
+---
+title: "SeedClim on the radio"
+date: 2016-08-22
+aliases:
+  - /seedclim-on-the-radio/
+categories:
+  - "Allgemein"
+description: "Today, Professor Vigdis Vandvik talked about the SeedClim project on the Norwegian radio NRK in the science program EKKO. 15 minutes on how lowland and alpine plants in western Norway will cope with future climate change. You can listen to the show:"
+---
+Today, Professor Vigdis Vandvik talked about the [SeedClim](http://www.uib.no/en/rg/EECRG/55395/seedclim) project on the Norwegian radio NRK in the science program [EKKO](https://radio.nrk.no/serie/ekko-hovedsending). 15 minutes on how lowland and alpine plants in western Norway will cope with future climate change.
+
+You can listen to the show:
+
+[Listen to the EKKO programme (mp3)](media/seedclim-ekko.mp3)
+
+ 
+
+[![Ekko Logo](media/Ekko-Logo-1024x575.jpeg)](media/Ekko-Logo.jpeg)

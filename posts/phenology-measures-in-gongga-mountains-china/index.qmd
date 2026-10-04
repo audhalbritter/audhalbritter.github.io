@@ -1,0 +1,12 @@
+---
+title: "Phenology measures in Gongga Mountains, China"
+date: 2016-05-25
+aliases:
+  - /phenology-measures-in-gongga-mountains-china/
+categories:
+  - "Phenology"
+description: "Phenology has been recorded at the first site!"
+---
+Phenology has been recorded at the first site!
+
+[![DSC_0116](media/DSC_0116-1024x681.jpg)](media/DSC_0116.jpg) [![DSC_0115](media/DSC_0115-681x1024.jpg)](media/DSC_0115.jpg)

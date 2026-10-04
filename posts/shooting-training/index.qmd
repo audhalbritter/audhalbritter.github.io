@@ -1,0 +1,9 @@
+---
+title: "Shooting training"
+date: 2018-07-17
+aliases:
+  - /shooting-training/
+categories:
+  - "Field work / course"
+---
+

@@ -1,0 +1,11 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+---
+
+Notes from the field, methods, and reading, written between 2015 and 2020. They were originally posted on audhalbritter.com, and the old addresses still work.

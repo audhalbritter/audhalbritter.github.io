@@ -1,0 +1,12 @@
+---
+title: "Reading list 25.3 – 31.3.2019"
+date: 2019-04-01
+aliases:
+  - /reading-list-25-3-31-3-2019/
+categories:
+  - "Reading"
+description: "De Long et al. 2018. Why are plant–soil feedbacks so unpredictable, and what to do about it? Functional Ecology. 33:118–128.Cameron et al. 2019. Uneven global distribution of food web studies under climate change. Ecosphere. 10(3) e02645.Classen et al. 2015. Direct and indirect e"
+---
+De Long et al. 2018. [Why are plant–soil feedbacks so unpredictable, and what to do about it?](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2435.13232) *Functional Ecology*. 33:118–128.  
+Cameron et al. 2019. [Uneven global distribution of food web studies under climate change](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.2645). *Ecosphere*. 10(3) e02645.  
+Classen et al. 2015. [Direct and indirect effects of climate change on soil microbial and soil microbial‐plant interactions: What lies ahead?](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/ES15-00217.1) *Ecosphere*. 6(8) 130.

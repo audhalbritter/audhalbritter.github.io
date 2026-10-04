@@ -1,0 +1,12 @@
+---
+title: "Guide to Peer Review"
+date: 2016-09-25
+aliases:
+  - /guide-to-peer-review/
+categories:
+  - "Writing"
+description: "I found a useful guide-to-peer-review for doing peer reviews by the British Ecological Society. It explains the whole process of peer-review, which can be useful for young researchers unfamiliar with the process. And it gives a lot of tips and questions to keep in mind when doing"
+---
+I found a useful [guide-to-peer-review](media/Guide-to-Peer-Review.pdf) for doing peer reviews by the [British Ecological Society](http://www.britishecologicalsociety.org/). It explains the whole process of peer-review, which can be useful for young researchers unfamiliar with the process. And it gives a lot of tips and questions to keep in mind when doing a review.
+
+[![bildschirmfoto-2016-09-25-um-14-38-50](media/Bildschirmfoto-2016-09-25-um-14.38.50-936x1024.png)](media/Bildschirmfoto-2016-09-25-um-14.38.50.png)

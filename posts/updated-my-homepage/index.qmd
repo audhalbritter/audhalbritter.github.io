@@ -1,0 +1,12 @@
+---
+title: "Updated my homepage"
+date: 2018-11-02
+aliases:
+  - /updated-my-homepage/
+categories:
+  - "Allgemein"
+description: "I have updated my homepage, with updating research areas, publications and pictures!"
+---
+I have updated my [homepage,](https://audhalbritter.com) with updating research areas, publications and pictures!
+
+[![](media/Bildschirmfoto-2018-11-02-um-15.33.19-990x1024.png)](media/Bildschirmfoto-2018-11-02-um-15.33.19.png)

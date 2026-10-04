@@ -1,0 +1,13 @@
+---
+title: "THREE-D webpage"
+date: 2019-05-03
+aliases:
+  - /three-d-webpage/
+categories:
+  - "Allgemein"
+---
+The Three-D project has a [webpage](https://www.uib.no/en/rg/EECRG/126712/three-d)!
+
+<figure class="wp-block-image">
+![](media/MG_1591-1024x683.jpg)
+</figure>

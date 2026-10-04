@@ -1,0 +1,14 @@
+---
+title: "Windy"
+date: 2020-02-15
+aliases:
+  - /windy/
+categories:
+  - "Allgemein"
+description: "Windy is a great resource providing global weather forecast. And beautiful maps on wind, precipitation, temperature, clouds, waves and much more."
+---
+[Windy](https://www.windy.com/?50.903,1.494,3) is a great resource providing global weather forecast. And beautiful maps on wind, precipitation, temperature, clouds, waves and much more.
+
+<figure class="wp-block-image">
+![](media/Bildschirmfoto-2019-10-15-um-12.35.54-1024x589.png)
+</figure>

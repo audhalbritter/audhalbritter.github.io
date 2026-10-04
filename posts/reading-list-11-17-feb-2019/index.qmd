@@ -1,0 +1,17 @@
+---
+title: "Reading list 11. – 17. Feb 2019"
+date: 2019-02-17
+aliases:
+  - /reading-list-11-17-feb-2019/
+categories:
+  - "Reading"
+description: "This week only 2 papers, because of the NØF conference at the start of the week and holiday at the end of it. This is all I could manage… Byrnes et al. 2014. Investigating the relationship between biodiversity and ecosystem multifunctionality: challenges and solutions. Methods in"
+---
+<figure class="wp-block-image is-resized">
+![](media/Garfield.gif)
+</figure>
+
+This week only 2 papers, because of the NØF conference at the start of the week and holiday at the end of it. This is all I could manage…
+
+Byrnes et al. 2014. [Investigating the relationship between biodiversity and ecosystem multifunctionality: challenges and solutions](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12143). *Methods in Ecology and Evolution*, 5, 111–124  
+Fanin et al. 2018. [Consistent effects of biodiversity loss on multifunctionality across contrasting ecosystems](https://www.nature.com/articles/s41559-017-0415-0). *Nature Eco Evo*. 2: 269–278.

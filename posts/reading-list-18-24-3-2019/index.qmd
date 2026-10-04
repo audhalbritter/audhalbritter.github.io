@@ -1,0 +1,13 @@
+---
+title: "Reading list 18. – 24.3.2019"
+date: 2019-03-25
+aliases:
+  - /reading-list-18-24-3-2019/
+categories:
+  - "Allgemein"
+  - "Reading"
+description: "Delgado-Baquerizo et al. 2019. Changes in belowground biodiversity during ecosystem development. PNAS.Wardle et al. 2004. Ecological Linkages Between Aboveground and Belowground Biota. Science. 304, (5677), 1629-1633.Adair et al. 2019. Above and belowground community strategies r"
+---
+Delgado-Baquerizo et al. 2019. [Changes in belowground biodiversity during ecosystem development](https://www.pnas.org/content/early/2019/03/13/1818400116/tab-figures-data). *PNAS*.  
+Wardle et al. 2004. Ecological Linkages Between Aboveground and Belowground Biota. Science. 304, (5677), 1629-1633.  
+Adair et al. 2019. [Above and belowground community strategies respond to different global change drivers](https://www.nature.com/articles/s41598-019-39033-4#ref-CR9). *Scientific Reports*. 9: 2540.

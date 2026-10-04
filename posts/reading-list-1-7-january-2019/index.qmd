@@ -1,0 +1,21 @@
+---
+title: "Reading list 1. – 6. January 2019"
+date: 2019-01-01
+aliases:
+  - /reading-list-1-7-january-2019/
+categories:
+  - "Reading"
+description: "I want to read more, read deeper, read the full paper, not only scanning the figures. Over the last years, I have made a reading list that has become longer and longer, because I never had time to read. The topics are a bit random, but mainly climate change ecology. So, here is m"
+---
+<figure class="wp-block-image">
+![](media/Authors-and-affiliations-1-1024x512.jpg)
+</figure>
+
+I want to read more, read deeper, read the full paper, not only scanning the figures. Over the last years, I have made a reading list that has become longer and longer, because I never had time to read. The topics are a bit random, but mainly climate change ecology. So, here is my reading list for next week. I will start with 6 papers a week. Let’s see how it goes.
+
+Kudo & Suzuki. 1999. [FLOWERING PHENOLOGY OF ALPINE PLANT COMMUNITY ALONG A GRADIENT OF SNOWMELT TIMING](file:///Users/audhalbritter/Downloads/KJ00000045379.pdf).  
+Harrison et al. 2018. [A brief introduction to mixed effects modelling and multi-model inference in ecology](http://A%20brief%20introduction%20to%20mixed%20effects%20modelling%20and%20multi-model%20inference%20in%20ecology)  
+Prevéy et al. 2017. [Greater temperature sensitivity of plant phenology at colder sites: implications for convergence across northern latitudes](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13619).  
+Isbell et al. 2015. [Biodiversity increases the resistance of ecosystem productivity to climate extremes](https://www.nature.com/articles/nature15374).  
+Wilsey et al. 2017. [Phenology differences between native and novel exotic‐dominated grasslands rival the effects of climate change.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.12971)  
+Midolo et al. 2018. [Impacts of nitrogen addition on plant species richness and abundance: A global meta‐analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.12971).

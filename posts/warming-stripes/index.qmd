@@ -1,0 +1,14 @@
+---
+title: "Warming stripes"
+date: 2019-06-18
+aliases:
+  - /warming-stripes/
+categories:
+  - "Allgemein"
+description: "On this website, #showyourstripes you can create an image with the warming stripes of your country. Here are the stripes for Switzerland from 1864 – 2018."
+---
+On this website, [\#showyourstripes](https://showyourstripes.info/) you can create an image with the warming stripes of your country. Here are the stripes for Switzerland from 1864 – 2018.
+
+<figure class="wp-block-image">
+![](media/stripes_EUROPE-Switzerland-1864-2018-MS-1024x512.png)
+</figure>
