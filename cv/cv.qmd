@@ -1,0 +1,183 @@
+---
+title: "Aud Helen Halbritter"
+subtitle: "Curriculum vitae"
+format:
+  html:
+    toc: true
+    format-links: false
+  typst:
+    toc: false
+    papersize: a4
+    margin:
+      x: 16mm
+      y: 16mm
+---
+
+Updated April 2026.
+
+Researcher, Ecological and Environmental Change Research Group, Department of Biological Sciences and Bjerknes Centre for Climate Research, University of Bergen.
+
+[aud.halbritter@uib.no](mailto:aud.halbritter@uib.no) · [me@audhalbritter.com](mailto:me@audhalbritter.com) · [audhalbritter.com](https://audhalbritter.com) · ORCID [0000-0003-2597-6328](https://orcid.org/0000-0003-2597-6328)
+
+Norwegian and Swiss. Languages: German, Norwegian, and English. Born 1 June 1982.
+
+::: {.content-visible when-format="html"}
+[Download PDF](aud-halbritter-cv.pdf)
+:::
+
+```{r}
+#| include: false
+source("R/cv_entries.R")
+cv <- yaml::read_yaml("resources/cv-entries.yaml")
+```
+
+## Positions
+
+```{r}
+#| output: asis
+write_entries(cv, "employment")
+```
+
+## Education
+
+```{r}
+#| output: asis
+write_entries(cv, "education")
+```
+
+## Research
+
+I am a plant ecologist working on global-change impacts on biodiversity and ecosystem functioning, mainly in alpine and arctic ecosystems. To get at the processes behind plant population, community, and ecosystem responses, and at how those responses depend on context, I replicate experiments along broad environmental gradients. I use trait-based approaches, including intraspecific trait variation, and I use synthesis (meta-analysis and systematic reviews) to look for mechanisms and broad-scale patterns. I am also interested in conservation and ecosystem ecology, including grazing as a way to manage ecosystems under global change. This work has included contributing to the IPBES assessment of invasive alien species, and to the ecological condition assessments of forest and alpine ecosystems in Norway.
+
+I work in international teams, raise external funding, and teach and supervise students from BSc to PhD. I use R and Git for large biodiversity and climate datasets, and I am responsible for data management and reproducible workflows in large projects, including the use of those data in earth system models. I coordinate methods work for the community, including the R package traitstrap and the ClimEx handbook of standardised field and laboratory methods for terrestrial climate-change experiments (114 authors, 62 protocols). I also do educational research on open and reproducible science.
+
+## Grants
+
+Total 24960k NOK as PI.
+
+```{r}
+#| output: asis
+write_entries(cv, "funding")
+```
+
+## Research stays
+
+```{r}
+#| output: asis
+write_entries(cv, "stays")
+```
+
+## Educational development
+
+```{r}
+#| output: asis
+write_entries(cv, "development")
+```
+
+## Supervision
+
+36 students, of whom 7 as main supervisor.
+
+### PhD
+
+Eight students. An asterisk in the source CV marked the main supervisor; external students are noted below.
+
+```{r}
+#| output: asis
+write_entries(cv, "phd")
+```
+
+### MSc
+
+Fifteen students.
+
+```{r}
+#| output: asis
+write_entries(cv, "msc")
+```
+
+### BSc, IAESTE, and interns
+
+```{r}
+#| output: asis
+write_entries(cv, "bsc")
+```
+
+## Teaching
+
+### Bachelor and master courses
+
+```{r}
+#| output: asis
+write_entries(cv, "teaching")
+```
+
+### Doctoral courses and workshops
+
+```{r}
+#| output: asis
+write_entries(cv, "workshops")
+```
+
+### Examiner
+
+```{r}
+#| output: asis
+write_entries(cv, "examiner")
+```
+
+## Publications
+
+42 papers, 12 as first author and 5 as senior author. Google Scholar: 2643 citations, h-index 23. Web of Science: 1636 citations (39.9 per item), h-index 19. Counts as of April 2026.
+
+{{< include ../resources/_journal-articles.md >}}
+
+### Reports and other writing
+
+```{r}
+#| output: asis
+write_entries(cv, "reports")
+```
+
+### Digital teaching resource
+
+```{r}
+#| output: asis
+write_entries(cv, "resources")
+```
+
+## Presentations
+
+Scientific presentations at international conferences: 37 (10 invited). Lectures and seminars on education: 3 (3 invited). Taught at seven International Plant Functional Traits Courses, in China, Peru, South Africa, and Norway.
+
+```{r}
+#| output: asis
+write_entries(cv, "talks")
+```
+
+## Professional activities
+
+### Committees, evaluation, and editing
+
+```{r}
+#| output: asis
+write_entries(cv, "service")
+```
+
+Peer review for 22 journals, including *Agricultural and Forest Meteorology*, *Arctic Science*, *Basic and Applied Ecology*, *Biology Letters*, *Ecography*, *Ecology and Evolution*, *Ecology Letters*, *Evolutionary Ecology*, *Folia Geobotanica*, *Frontiers in Ecology and Evolution*, *Frontiers in Plant Science*, *Austral Ecology*, *Global Ecology and Biogeography*, *Journal of Biogeography*, *Journal of Ecology*, *Journal of Mountain Science*, *Journal of Vegetation Science*, *Methods in Ecology and Evolution*, *Oikos*, *Perspectives in Ecology, Evolution and Plant Diversity*, *Systematics*, and *Proceedings of the Royal Society B*.
+
+Member of the Ecological Society of America, the International Association for Vegetation Science, the Nordic Society Oikos, and the Ecological Society of Germany, Switzerland and Austria (GfÖ).
+
+### Networks and other work
+
+```{r}
+#| output: asis
+write_entries(cv, "networks")
+```
+
+### Visiting researchers
+
+```{r}
+#| output: asis
+write_entries(cv, "visitors")
+```
