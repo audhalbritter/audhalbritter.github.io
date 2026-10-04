@@ -5,12 +5,6 @@ format:
   html:
     toc: true
     format-links: false
-  typst:
-    toc: false
-    papersize: a4
-    margin:
-      x: 16mm
-      y: 16mm
 ---
 
 Updated April 2026.
@@ -20,10 +14,6 @@ Researcher, Ecological and Environmental Change Research Group, Department of Bi
 [aud.halbritter@uib.no](mailto:aud.halbritter@uib.no) · [me@audhalbritter.com](mailto:me@audhalbritter.com) · [audhalbritter.com](https://audhalbritter.com) · ORCID [0000-0003-2597-6328](https://orcid.org/0000-0003-2597-6328)
 
 Norwegian and Swiss. Languages: German, Norwegian, and English. Born 1 June 1982.
-
-::: {.content-visible when-format="html"}
-[Download PDF](aud-halbritter-cv.pdf)
-:::
 
 ```{r}
 #| include: false

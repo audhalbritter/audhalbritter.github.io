@@ -10,3 +10,11 @@ scripts/.cache/
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Private CV source files — keep local only
+CV Aud Halbritter.doc
+CV Aud Halbritter.docx
+cv/aud-halbritter-cv.pdf
+cv/cv.pdf
+docs/cv/aud-halbritter-cv.pdf
+docs/cv/cv.pdf
