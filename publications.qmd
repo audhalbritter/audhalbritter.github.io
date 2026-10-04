@@ -1,0 +1,48 @@
+---
+title: "Publications"
+toc-depth: 2
+---
+
+42 papers, 12 as first author and 5 as senior author. Google Scholar: 2643 citations, h-index 23. Web of Science: 1636 citations, h-index 19. Counts are from the CV, updated April 2026.
+
+Journal articles and data papers are in APA style, grouped by year, with every author listed. **Halbritter, A. H.** is shown in bold.
+
+## Journal articles
+
+{{< include resources/_publications-apa.md >}}
+
+## Reports
+
+::: {.hanging-indent}
+
+Nybø, S., Kolstad, A., Czúcz, B., Framstad, E., Sandvik, H., Töpper, J., Bjørkvoll, B., Clappe, S., **Halbritter, A. H.**, Storaunet, K. O., Dramstad, W., Grainger, M., Haande, S., Pedersen, C., Schartau, A. K., & Vandvik, V. (2025). Nasjonal pilot for økologisk tilstandsregnskap. *NINA Rapport 2668*. Norwegian Institute for Nature Research.
+
+IPBES. (2023). *Thematic assessment report on invasive alien species and their control* (H. E. Roy, A. Pauchard, P. Stoett, & T. Renard Truong, Eds.). Contributing author, **Halbritter, A. H.** IPBES secretariat, Bonn. [https://doi.org/10.5281/zenodo.7430682](https://doi.org/10.5281/zenodo.7430682)
+
+**Halbritter, A. H.**, et al. (2015). Klimaendringer i din bakgård. Report from the SeedClim project.
+
+:::
+
+## Popular science
+
+::: {.hanging-indent}
+
+**Halbritter, A. H.**, & Vandvik, V. (2020). Kan utmarksbeite bidra til økt biologisk mangfold og karbonlagring i framtida? *Sau og Geit, 4*. [PDF](files/sau-og-geit-2020.pdf)
+
+Cotner, S., et al. (2020). International scientists need better support during global emergencies. *Times Higher Education*. [timeshighereducation.com](https://www.timeshighereducation.com/blog/international-scientists-need-better-support-during-global-emergencies)
+
+:::
+
+## Presentations
+
+Scientific presentations at international conferences: 37 (10 invited). Lectures and seminars on education: 3 (3 invited). Taught at seven International Plant Functional Traits Courses, in China, Peru, South Africa, and Norway.
+
+{{< include resources/_presentations.md >}}
+
+## Teaching resource
+
+::: {.hanging-indent}
+
+Telford, R. J., **Halbritter, A. H.**, et al. (2021). Enough R to write a thesis. [biostats-r.github.io](https://biostats-r.github.io/)
+
+:::
