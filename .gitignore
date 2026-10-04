@@ -1,6 +1,5 @@
 .quarto/
 _site/
-docs/
 .Rhistory
 .RData
 .Rproj.user/

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Aud H. Halbritter</title>
+<link>https://audhalbritter.github.io/blog.html</link>
+<atom:link href="https://audhalbritter.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Plant ecologist at the University of Bergen. Global change, trait-based ecology, and open science.</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Thu, 01 Oct 2020 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Grazing and carbon storage in alpine ecosystems</title>
+  <link>https://audhalbritter.github.io/posts/grazing-and-carbon-storage-in-alpine-ecosystems/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Grazing has a long tradition in the alpine areas in Norway. In the last years grazing in alpine areas has gone down dramatically with consequences for the ecosystem. Grazing is an important factor in these areas and helps to shape the open grasslands we are use to.</p>
+<p>In addition, grazing can be beneficial for the carbon storage in alpine soils. The important factor is the intensity of grazing, which should not be too high or too low. This is what the <a href="../../research/three-d/">THREE-D project</a> is investigating.</p>
+<p>I have written a popular science article in the magazine Sau og Geit about these complex interactions and how grazing can be beneficial for nature. You can read the article <a href="media/sau_geit_4_2020_46_50.pdf">here</a> (in Norwegian).</p>
+<p><img src="https://audhalbritter.github.io/posts/grazing-and-carbon-storage-in-alpine-ecosystems/media/Screenshot-2020-10-02-at-08.41.18.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>Field work / course</category>
+  <category>Papers</category>
+  <guid>https://audhalbritter.github.io/posts/grazing-and-carbon-storage-in-alpine-ecosystems/</guid>
+  <pubDate>Thu, 01 Oct 2020 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>How to measure plant species composition?</title>
+  <link>https://audhalbritter.github.io/posts/how-to-measure-plant-species-composition/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In the <a href="../../research/three-d/">Three-D project</a> we measure how plant species composition responds to global change. Plant species composition is a common response variable in community ecology. But how is it measured?</p>
+<div id="attachment_1017" class="wp-caption alignnone" style="width: 635px">
+<p><a href="media/IMG_8372.jpg"><img src="https://audhalbritter.github.io/posts/how-to-measure-plant-species-composition/media/IMG_8372-1024x768.jpg" class="img-fluid"></a></p>
+<p>Recording species composition at Joasete, Norway. Photo: Vigdis Vandvik.</p>
+</div>
+<p>Basically, we lie on the grass the whole summer and stare at the vegetation. My husband once said when asked what I am doing „She pets the plants“. That’s pretty much what it looks like, but there is a bit more to it.</p>
+<p>We are using the visual cover estimate method. Our plots are<span style="font-size: 1rem;"> 25 x 25 cm large, and marked permanently with metal tubes in each corner to relocate the plots each yea</span><span style="font-size: 1rem;">r. For the measurements, we use a metal frame, the same size as the plots with a grid of 25 subplots. In every subplot, we record the presence of all graminoid and forb species. In addition, we also record if a plant is fertile (if it has buds, flowers, seeds), is a seedling, juvenile or dominant (covers &gt; 50% of the subplot). Once all the species are recorded in each subplot , we visually estimate the cover of each species on the whole plot. This might seem like an inaccurate method. Yes, it needs some practice to estimate the cover and some species are more difficult than others. If several people record the data, they need to standardize their estimates at the start. We usually estimate the cover for a couple of plot together in the beginning to calibrate.</span></p>
+<div id="attachment_1022" class="wp-caption alignnone" style="width: 635px">
+<p><a href="media/IMG_6853-scaled-e1597003164429.jpg"><img src="https://audhalbritter.github.io/posts/how-to-measure-plant-species-composition/media/IMG_6853-scaled-e1597003164429-768x1024.jpg" class="img-fluid"></a></p>
+<p>Using a metal frame with 25 subplots to estimate plant cover.</p>
+</div>
+<p>How do we deal with unknown species? That’s a good question. There are always a couple of plants that cannot be identified. It can be because they are seedlings, juvenile, funny shaped, sterile, grazed or damaged. For the seedlings, which are not always easy to identify we have a column where we count the number of seedlings in each subplot. If the plants are not fully grown and difficult to identify, we note down juvenile to indicate the identity is not 100% certain. Usually, the following year, the species is fully grown and we know what it is.</p>
+<p>Sterile or damaged graminoids are often a problem. For example, to identify Carex species it is important to have the flowers, seeds and leaf tips. But the species do not flower every year and sometimes get chewed on. When we have species that cannot be identified, we give them descriptive names, like „Dark green thin m-shaped Carex“, „Beautiful Agrostis“, „Carex norvegica cf“. And we add a description of the species. Sometimes in the next plot you come across the same species with a flower and can identify it. Other times you have to wait until the next season to solve the riddle. The important thing is to describe the plants suficiently and make sure to divide the unknown plants into different species. They can always be merged later if they turn out to be the same species. It is impossible to divide them into different species later.</p>
+<div id="attachment_1023" class="wp-caption alignnone" style="width: 635px">
+<p><a href="media/IMG_6865-scaled.jpg"><img src="https://audhalbritter.github.io/posts/how-to-measure-plant-species-composition/media/IMG_6865-1024x768.jpg" class="img-fluid"></a></p>
+<p>A sterile Carex species.</p>
+</div>
+<p>What can be done to ensure quality control? There are several things that can be done. If several people do the recording, some of the plots should be done twice by two different people to compare the results. This is time consuming, but very useful. I always take a picture of each plot. This can help me when I am processing and cleaning the data to solve issues with the data. Recording species cover is time consuming and it is important to take the time it needs in the field to find and identify all the species. I have started to use a tablet to record the data in the field. And the data sheet is a little bit intelligent and can tell me if I am missing some data or if numbers are completely wrong. This is a great help to avoid mistakes that happen very often when recording data on paper.</p>
+<p>For more details, see the ClimEx handbook of standardized measurements, protocol <a href="https://climexhandbook.w.uib.no/2019/11/04/plant-community-composition/">4.8 Plant Community composition</a>.</p>
+
+
+
+ ]]></description>
+  <category>Field work / course</category>
+  <category>Methods</category>
+  <guid>https://audhalbritter.github.io/posts/how-to-measure-plant-species-composition/</guid>
+  <pubDate>Sun, 09 Aug 2020 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Three-D field work in the Corona time</title>
+  <link>https://audhalbritter.github.io/posts/three-d-field-work/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Field work is always the busy season for plant ecologists. We maintain the experiments, collect new data, deal with unexpected situations and issues, and try to cramp in as much work as possible into a few weeks. Due to the Corona situation this year, the field season was uncertain for a long time and it was unclear if we could do the work at all. Slowly, we made plans for what was essential and things that could be dropped.</p>
+<div id="attachment_1008" class="wp-caption alignnone" style="width: 635px">
+<p><a href="media/IMG_7828-scaled.jpg"><img src="https://audhalbritter.github.io/posts/three-d-field-work/media/IMG_7828-1024x768.jpg" class="img-fluid"></a></p>
+<p>Three-D field sites are located in the beautiful fjord landscape, with large gradients from sea level to the alpine.</p>
+</div>
+<p>For the Three-D project the most important thing was to keep the experiment running. This meant, building fences around the plots that were established last year and to apply the treatments. The treatments in this project are warmer climate by transplants (so nothing to do there), nitrogen addition and clipping (simulate grazing). The first problem was to order a slow release nitrogen fertilizer. I contacted some colleagues from <a href="https://nutnet.org/">Nutnet</a> (Nutrient Network) and they kindly helped me out with advice. I finally managed to order 600kg of fertilizer. The last treatment is a clipping treatment, where we simulate different levels of grazing. For this, we are clipping and removing the vegetation in the plots 2-4 times during the growing season.</p>
+<div id="attachment_1007" class="wp-caption alignnone" style="width: 635px">
+<p><a href="media/IMG_1837-scaled.jpg"><img src="https://audhalbritter.github.io/posts/three-d-field-work/media/IMG_1837-1024x768.jpg" class="img-fluid"></a></p>
+<p>A transplanted plot at the beginning of the field season.</p>
+</div>
+<div id="attachment_1009" class="wp-caption alignnone" style="width: 635px">
+<p><a href="media/IMG_7900-scaled-e1596881043967.jpg"><img src="https://audhalbritter.github.io/posts/three-d-field-work/media/IMG_7900-scaled-e1596881043967-768x1024.jpg" class="img-fluid"></a></p>
+<p>We clip the vegetation with scissors and sort them into different functional groups.</p>
+</div>
+<p>For the measurements, we are interested in change in plant community and ecosystem function in response to warming, nitrogen and grazing. For this, we record presence/absence and cover of all vascular plants and carbon fluxes.&nbsp;We decided to reduce these measurements to a minimum, only on the controlled and warmed plots.</p>
+<div id="attachment_1006" class="wp-caption alignnone" style="width: 635px">
+<p><a href="media/IMG_1634-scaled.jpg"><img src="https://audhalbritter.github.io/posts/three-d-field-work/media/IMG_1634-1024x768.jpg" class="img-fluid"></a></p>
+<p>Joseph and Alex measuring carbon fluxes using a Licor and a plexiglas chamber.</p>
+</div>
+<div id="attachment_1011" class="wp-caption alignnone" style="width: 635px">
+<p><a href="media/IMG_8436-scaled.jpg"><img src="https://audhalbritter.github.io/posts/three-d-field-work/media/IMG_8436-1024x768.jpg" class="img-fluid"></a></p>
+<p>Leire, our IAESTE intern from Spain, recording functional group cover.</p>
+</div>
+<p>So far the field work has been going well and the experiment looks good. The plants are responding to the treatments and we have collected all the data we wanted. We are also taking other measures to keep the people save. We follow strict hygiene rules, work in small groups, and try not to mix the people. We are very grateful that nobody has gotten sick yet.</p>
+<div id="attachment_1010" class="wp-caption alignnone" style="width: 635px">
+<p><a href="media/IMG_6913-scaled.jpg"><img src="https://audhalbritter.github.io/posts/three-d-field-work/media/IMG_6913-1024x768.jpg" class="img-fluid"></a></p>
+<p>Sheep grazing at Joasete.</p>
+</div>
+
+
+
+ ]]></description>
+  <category>Field work / course</category>
+  <guid>https://audhalbritter.github.io/posts/three-d-field-work/</guid>
+  <pubDate>Fri, 07 Aug 2020 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>First field day</title>
+  <link>https://audhalbritter.github.io/posts/first-field-day/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Yesterday, was the first day in the field after winter break. It was good to get out of the city, drive trough the country side and spend a couple hours outside and far away from my home office.</p>
+<p>I stopped at Flåm and it was strange to see the place so empty. Usually this place is swamped with people and cruise ships at this time of the year. Sadly, Flåm and Aurland are the places with the highest unemployment rate in the country. Hopefully, things are getting back to normal soon.</p>
+<p>It is very cold at the moment and summer is far away. There is a lot of snow in the mountains that still has to melt. Who know when the field season in the mountains will start.</p>
+<p>The <a href="../../transplant-vegetation/">turfs</a> I transplanted last summer look happy. The Tomst loggers that measure the microclimate do not. They have all lost their „hats“ (protection from direct sunlight). Probably the snow, but maybe also deer that found something to play with.</p>
+<p>The next step will be to get a fence around the plots, to protect them from the goats.</p>
+<p><a href="media/MG_2151.jpg"><img src="https://audhalbritter.github.io/posts/first-field-day/media/MG_2151-1024x683.jpg" class="img-fluid"></a> <a href="media/MG_2155.jpg"><img src="https://audhalbritter.github.io/posts/first-field-day/media/MG_2155-1024x683.jpg" class="img-fluid"></a> <a href="media/MG_2157.jpg"><img src="https://audhalbritter.github.io/posts/first-field-day/media/MG_2157-1024x683.jpg" class="img-fluid"></a></p>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://audhalbritter.github.io/posts/first-field-day/</guid>
+  <pubDate>Mon, 11 May 2020 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Virtual conference</title>
+  <link>https://audhalbritter.github.io/posts/virtual-conference/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I was supposed to go to a conference next week; the EGU in Vienna. But I am not going to the conference now, as almost no travelling, meetings and going to work is happening at the moment. The conference is still happening, but everything is going to be online.<br>
+I made a <a href="https://meetingorganizer.copernicus.org/egu2020/meetingprogramme">poster</a> to present the <a href="https://climexhandbook.w.uib.no/">ClimEx Handbook</a> and hope for fruitful discussions during our sessions. Come and visit our session:</p>
+<p>BG2.23 <a href="https://meetingorganizer.copernicus.org/EGU2020/session/35273">Whole system approaches in addressing processes and long-term changes in terrestrial and aquatic ecosystems</a></p>
+<p><a href="media/PosterEGU.png"><img src="https://audhalbritter.github.io/posts/virtual-conference/media/PosterEGU-212x300.png" class="img-fluid"></a></p>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://audhalbritter.github.io/posts/virtual-conference/</guid>
+  <pubDate>Sun, 26 Apr 2020 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Windy</title>
+  <link>https://audhalbritter.github.io/posts/windy/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.windy.com/?50.903,1.494,3">Windy</a> is a great resource providing global weather forecast. And beautiful maps on wind, precipitation, temperature, clouds, waves and much more.</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/windy/media/Bildschirmfoto-2019-10-15-um-12.35.54-1024x589.png" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://audhalbritter.github.io/posts/windy/</guid>
+  <pubDate>Fri, 14 Feb 2020 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Dragons in Nature</title>
+  <link>https://audhalbritter.github.io/posts/dragons-in-nature/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.nature.com/">Nature</a> has some great articles about dragons, that I came across lately. They are old, and probably well known. But I wanted to list them here anyway.</p>
+<p>The first one by <a href="https://www.nature.com/articles/520042a#Fig2">Hamilton, May and Waters</a> is a warning that with climate change, the conditions for dragon breeding are rapidly reaching ideal conditions. And they are warning that the „Third Stir“ might take place soon.</p>
+<p><a href="media/Bildschirmfoto-2020-01-16-um-10.18.48.png"><img src="https://audhalbritter.github.io/posts/dragons-in-nature/media/Bildschirmfoto-2020-01-16-um-10.18.48-1024x514.png" class="img-fluid"></a></p>
+<p>The second article I came across is on <a href="https://www.nature.com/articles/264016a0.pdf">the ecology of dragons</a> by May. It is about the ecology and origin of dragons and why they might have gone extinct.</p>
+<p>&nbsp;</p>
+<p>References</p>
+<p>Hamilton, A., May, R. &amp; Waters, E. Here be dragons.&nbsp;<em>Nature</em>&nbsp;<strong>520,&nbsp;</strong>42–43 (2015) doi:10.1038/520042a.</p>
+<p>May, R. M. (1976). The ecology of dragons.&nbsp;<em>Nature</em>,&nbsp;<em>264</em>(5581), 16.</p>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <category>Papers</category>
+  <category>Reading</category>
+  <guid>https://audhalbritter.github.io/posts/dragons-in-nature/</guid>
+  <pubDate>Wed, 15 Jan 2020 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Wes Anderson Palettes</title>
+  <link>https://audhalbritter.github.io/posts/wes-anderson-palettes/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Do you also love Wes Anderson movies? Today, I learnt that there are <a href="https://github.com/karthik/wesanderson">Wes Anderson colour palettes</a>&nbsp;for R. So from now on you can colour your ggplots according to Rushmore, The Grand Budapest Hotel or The Isle of Dogs.</p>
+<p><a href="media/Bildschirmfoto-2019-11-01-um-16.20.56.png"><img src="https://audhalbritter.github.io/posts/wes-anderson-palettes/media/Bildschirmfoto-2019-11-01-um-16.20.56-300x175.png" class="img-fluid"></a></p>
+
+
+
+ ]]></description>
+  <category>R code</category>
+  <guid>https://audhalbritter.github.io/posts/wes-anderson-palettes/</guid>
+  <pubDate>Thu, 31 Oct 2019 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>My top 8 dplyr functions</title>
+  <link>https://audhalbritter.github.io/posts/my-top-8-dplyr-functions/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I made a overview of the dplyr functions i use most often. The overview is heavily adapted from <a href="https://rstudio.com/resources/cheatsheets/">RStudio Cheat Sheets</a>, and I made it for the students in my Ecology class. Yes, we do use R in a basic ecology class. Here you can download a <a href="media/Dplyr.pdf">pdf</a>.</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/my-top-8-dplyr-functions/media/Dplyr.jpg" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>R code</category>
+  <guid>https://audhalbritter.github.io/posts/my-top-8-dplyr-functions/</guid>
+  <pubDate>Mon, 14 Oct 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Interview on the radio</title>
+  <link>https://audhalbritter.github.io/posts/interview-on-the-radio/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I was the on the radio <a href="https://twitter.com/stadtfilter"><span class="citation" data-cites="stadtfilter">@stadtfilter</span></a> yesterday talking about my work, <a href="https://twitter.com/hashtag/RaspberryPi?src=hashtag_click">#RaspberryPi</a>’s, traits and climate change. The interview is in Swiss German and you can listen to it <a href="https://nerdfunk.ch/podlove/file/1070/s/download/c/select-show/191008-Nerdfunk-497.mp3">here</a>.</p>
+<figure class="wp-block-image is-resized figure">
+<img src="https://audhalbritter.github.io/posts/interview-on-the-radio/media/Foto-08.10.19-19-20-44-1024x768.jpg" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://audhalbritter.github.io/posts/interview-on-the-radio/</guid>
+  <pubDate>Tue, 08 Oct 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Avoiding gender bias in reference writing</title>
+  <link>https://audhalbritter.github.io/posts/avoiding-gender-bias-in-reference-writing/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/avoiding-gender-bias-in-reference-writing/media/Bildschirmfoto-2019-10-06-um-22.00.04-1-790x1024.png" class="img-fluid figure-img">
+</figure>
+<p><a href="https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf">Download</a> this resource from the University of Arizona.</p>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://audhalbritter.github.io/posts/avoiding-gender-bias-in-reference-writing/</guid>
+  <pubDate>Sat, 05 Oct 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Video on Three-D transplant</title>
+  <link>https://audhalbritter.github.io/posts/video-on-three-d-transplant/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<figure class="figure">
+<div class="iframe">
+<div id="player">
+
+</div>
+<div class="player-unavailable">
+<h1 id="det-oppsto-en-feil." class="message">
+Det oppsto en feil.
+</h1>
+<div class="submessage">
+<p>Kan ikke kjøre JavaScript.</p>
+</div>
+</div>
+</div>
+</figure>
+
+
+
+ ]]></description>
+  <category>3D</category>
+  <category>Field work / course</category>
+  <guid>https://audhalbritter.github.io/posts/video-on-three-d-transplant/</guid>
+  <pubDate>Wed, 14 Aug 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Transplant vegetation</title>
+  <link>https://audhalbritter.github.io/posts/transplant-vegetation/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/transplant-vegetation/media/DJI_0142-1024x575.jpg" class="img-fluid figure-img">
+</figure>
+<p>This summer has passed quickly with lot’s of field work setting up the Three-D project. We have selected plots, recorded vegetation and taken soil samples. The weather has been fantastic to do all the work this year (a bit unusual for Western Norway).</p>
+<p>This week, we transplanted vegetation turfs from the mountain to lower elevation, which is part of the warmer climate treatment. From each site, we dug out 40 turfs (50 x 50 cm), put them in boxes and transported them 400m down the mountain, where they were put back into the ground. Each turf weighed between 10 – 30 kg and the 80 turfs must have added up to c.&nbsp;2 tons. Luckily, we did not have to carry the turfs ourselves, we used a helicopter.</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/transplant-vegetation/media/MG_1953-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/transplant-vegetation/media/IMG_1976-683x1024.jpg" class="img-fluid figure-img">
+</figure>
+<p>The organization of the transplanting has been a logistic nightmare and I am very glad it is done now. The helicopter cannot fly in fog or when there are strong winds. And I needed many helpers to dig out, be in several locations at the same time, coordinate the helicopter, put the turfs back into the soil.</p>
+<p>Thanks again Josh, Vincent, Frida and Kevin for your hard work and high spirits! And thanks Kevin for filming, droning and taking nice shots!</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/transplant-vegetation/media/DJI_0126-1024x575.jpg" class="img-fluid figure-img">
+</figure>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/transplant-vegetation/media/DJI_0137-1024x575.jpg" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>3D</category>
+  <category>Field work / course</category>
+  <guid>https://audhalbritter.github.io/posts/transplant-vegetation/</guid>
+  <pubDate>Fri, 09 Aug 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Three-D site selection</title>
+  <link>https://audhalbritter.github.io/posts/three-d-site-selection/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In the last two weeks I have travelled around the world (yes, I had to write this line) to select sites for the Three-D project in China and in Norway. We have successfully selected beautiful, species rich, and semi-natural grasslands along elevational gradients.</p>
+<p>In each country we selected 3 sites along a productivity gradient. The gradient in Norway starts at 500m and stretches up to 1300m. In China, the lowest site is located at 3500m and the highest site at 4300m. The highest sites are low productive.</p>
+<p>Both systems are grazed by somewhat different animals. In Norway, there are mainly sheep and goats, while in China, the dominant grazers are horses and yak.</p>
+<p>The next step will be to select the plots and blocks and set up fences.</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/three-d-site-selection/media/MG_1780-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/three-d-site-selection/media/MG_1623-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>3D</category>
+  <category>Field work / course</category>
+  <guid>https://audhalbritter.github.io/posts/three-d-site-selection/</guid>
+  <pubDate>Fri, 21 Jun 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ten important points about open data</title>
+  <link>https://audhalbritter.github.io/posts/ten-important-points-about-open-data/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>From Renaut et al.&nbsp;2018. <a href="https://academic.oup.com/bioscience/article/68/6/400/4983937">Management, Archiving, and Sharing for Biologists and the Role of Research Institutions in the Technology-Oriented</a> Age. <em>Bio Science</em> 68 (6) 400–411.</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/ten-important-points-about-open-data/media/Bildschirmfoto-2019-06-19-um-10.40.01-874x1024.png" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <category>Papers</category>
+  <guid>https://audhalbritter.github.io/posts/ten-important-points-about-open-data/</guid>
+  <pubDate>Tue, 18 Jun 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Warming stripes</title>
+  <link>https://audhalbritter.github.io/posts/warming-stripes/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On this website, <a href="https://showyourstripes.info/">#showyourstripes</a> you can create an image with the warming stripes of your country. Here are the stripes for Switzerland from 1864 – 2018.</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/warming-stripes/media/stripes_EUROPE-Switzerland-1864-2018-MS-1024x512.png" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://audhalbritter.github.io/posts/warming-stripes/</guid>
+  <pubDate>Mon, 17 Jun 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Spring flowers in Mount Gongga</title>
+  <link>https://audhalbritter.github.io/posts/spring-flowers-in-mount-gongga/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Last week I was in Mount Gongga setting up a new experiment. All the spring flowering was still in bloom. Here are just a few of them…</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/spring-flowers-in-mount-gongga/media/MG_1692-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/spring-flowers-in-mount-gongga/media/MG_1702-683x1024.jpg" class="img-fluid figure-img">
+</figure>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/spring-flowers-in-mount-gongga/media/MG_1704-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/spring-flowers-in-mount-gongga/media/MG_1705-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <category>Field work / course</category>
+  <guid>https://audhalbritter.github.io/posts/spring-flowers-in-mount-gongga/</guid>
+  <pubDate>Fri, 14 Jun 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A walk in the snow</title>
+  <link>https://audhalbritter.github.io/posts/a-walk-in-the-snow/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week, I was in the field to train two students and find potential new field sites. The training was successfully done in decent weather, a mix of sun and clouds. But when we started to walk up the mountain, the snow came. It was snowing and hailing and raining, all in one.</p>
+<p>We found a beautiful summer farm, where I will have one of my field sites. It even has a letter box, where hikers can write their names when walking up the mountain.</p>
+<p>I’ll have to come back to select the sites properly, set up plots. And then I will spend a lot of time staring at the plants. Looking forward to this!</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/a-walk-in-the-snow/media/MG_1623-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/a-walk-in-the-snow/media/MG_1630-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/a-walk-in-the-snow/media/MG_1640-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/a-walk-in-the-snow/media/MG_1641-1024x683.jpg" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://audhalbritter.github.io/posts/a-walk-in-the-snow/</guid>
+  <pubDate>Thu, 30 May 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Reading list 20. – 26. May 2019</title>
+  <link>https://audhalbritter.github.io/posts/reading-list-20-26-may-2019/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Summerfield, R. J. 1999. <a href="http://www.date.hu/acta-agraria/2002-08i/summerfield.pdf">Timing it right: the measurement and prediction of flowering</a>. – Acta Agron. Hung. 47: 203–213.&nbsp;<br>
+Sack L, Cornwell WK, Santiago LS, Barbour MM, Choat B, Evans JR, Munns R, Nicotra A. 2010. <a href="http://www.publish.csiro.au/fp/FP10097">A unique web resource for physiology, ecology and the environmental sciences: PrometheusWiki</a>. Functional Plant Biology 387: 687-693.<br>
+IPBES (2019). <a href="https://www.ipbes.net/sites/default/files/downloads/spm_unedited_advance_for_posting_htn.pdf">Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services</a>.</p>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <category>Reading</category>
+  <guid>https://audhalbritter.github.io/posts/reading-list-20-26-may-2019/</guid>
+  <pubDate>Sun, 26 May 2019 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The carbon footprint of your food</title>
+  <link>https://audhalbritter.github.io/posts/the-carbon-footprint-of-your-food/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>A new study from Poore &amp; Nemecek shows the carbon footprint of our diet. BBC’s has made a tool, where you can check the <a href="https://www.bbc.com/news/science-environment-46459714">carbon footprint calculator</a> for what you eat. Not surprisingly, reducing meat and diary products reduces your environmental impact most (<a href="https://science.sciencemag.org/content/360/6392/987">Poore &amp; Nemecek, Science, 2018</a>).</p>
+<figure class="wp-block-image figure">
+<img src="https://audhalbritter.github.io/posts/the-carbon-footprint-of-your-food/media/Bildschirmfoto-2019-05-26-um-08.45.07-1024x1007.png" class="img-fluid figure-img">
+</figure>
+
+
+
+ ]]></description>
+  <category>Allgemein</category>
+  <guid>https://audhalbritter.github.io/posts/the-carbon-footprint-of-your-food/</guid>
+  <pubDate>Sat, 25 May 2019 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
