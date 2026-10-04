@@ -1,0 +1,45 @@
+---
+title: "Aud H. Halbritter"
+subtitle: "Plant ecologist, University of Bergen"
+about:
+  id: home-bio
+  template: solana
+  image: images/home/field-1.jpg
+  image-alt: "A flowering alpine shrub in front of snow-covered mountains"
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:me@audhalbritter.com
+    - text: ORCID
+      icon: link
+      href: https://orcid.org/0000-0003-2597-6328
+    - text: GitHub
+      icon: github
+      href: https://github.com/audhalbritter
+---
+
+::: {#home-bio}
+Global climate change is a major ecosystem threat, and a fundamental understanding of how species and species interactions respond to recent climate change is needed. I combine observational and experimental research along climate gradients to tackle three major research areas:
+
+- Combining climate change with evolutionary and trait-based ecology, to understand the mechanisms of adaptation to environmental change.
+- Using large-scale gradient approaches to study the interactive effects of global change drivers on biodiversity and ecosystem function.
+- Studying the mechanisms and large-scale patterns of global change ecology by synthesising across studies.
+
+These themes are expanded on the [research](research.qmd) page. Current projects include [THREE-D](research/three-d.qmd) and [NatuRA](research/natura.qmd).
+:::
+
+::: {layout-ncol="2"}
+![A bumblebee visiting a thistle](images/home/pollinator.jpg)
+
+![Seedlings in an experiment](images/home/field-2.jpg)
+:::
+
+## Contact
+
+Ecological and Environmental Change Research Group  
+Department of Biological Sciences and Bjerknes Centre for Climate Research  
+University of Bergen, Postboks 7803, 5020 Bergen, Norway
+
+[me@audhalbritter.com](mailto:me@audhalbritter.com) · [aud.halbritter@uib.no](mailto:aud.halbritter@uib.no)
+
+ORCID [0000-0003-2597-6328](https://orcid.org/0000-0003-2597-6328)

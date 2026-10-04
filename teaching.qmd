@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+---
+
+## Open Science
+
+I lead the course Open, Reproducible and Transparent Science in Ecology, taught with colleagues at the University of Bergen and Living Norway. The course is for graduate students in ecology and covers reproducible workflows, version control, data documentation, and open science practice.
+
+The course pages, materials, and announcements are on the [Living Norway Open Science Training](https://open-science-course.github.io/course_website/) website.
+
+## Plant Functional Traits Courses
+
+The [Plant Functional Traits Courses](https://plantfunctionaltraitscourses.w.uib.no/) are international field courses in trait-based ecology. Students plan a project, collect trait data, and analyse it in the context of climate and ecosystem ecology. I have taught and led courses in this series in China, Peru, Svalbard, Norway, and South Africa.
+
+A full list of courses, workshops, and students is on the [CV](cv/cv.qmd).

@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: docs
+  execute-dir: project
+  resources:
+    - images/header.jpg
+
+website:
+  title: "Aud H. Halbritter"
+  description: "Plant ecologist at the University of Bergen. Global change, trait-based ecology, and open science."
+  site-url: https://audhalbritter.github.io
+  search: true
+  navbar:
+    background: "#1e4d3a"
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Overview
+          - href: research/three-d.qmd
+            text: THREE-D
+          - href: research/natura.qmd
+            text: NatuRA
+      - href: teaching.qmd
+        text: Teaching
+      - href: publications.qmd
+        text: Publications
+      - href: blog.qmd
+        text: Blog
+      - href: cv/cv.qmd
+        text: CV
+    tools:
+      - icon: envelope
+        href: mailto:me@audhalbritter.com
+        aria-label: Email
+      - icon: github
+        href: https://github.com/audhalbritter
+        aria-label: GitHub
+  page-footer:
+    border: true
+    left: "Department of Biological Sciences, University of Bergen"
+    right:
+      - text: Email
+        href: mailto:me@audhalbritter.com
+      - text: ORCID
+        href: https://orcid.org/0000-0003-2597-6328
+      - text: GitHub
+        href: https://github.com/audhalbritter
+
+format:
+  html:
+    theme:
+      light: [litera, css/custom.scss, css/light.scss]
+      dark: [darkly, css/custom.scss, css/dark.scss]
+    toc: true
+    link-external-newwindow: true
+    lang: en
+
+execute:
+  echo: false
+  warning: false
+  message: false

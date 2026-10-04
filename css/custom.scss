@@ -1,0 +1,84 @@
+/*-- scss:defaults --*/
+$navbar-hl: #f3e6c4;
+
+/*-- scss:rules --*/
+h1, h2, .navbar-title {
+  letter-spacing: -0.01em;
+}
+
+// The green bar is the alpine photograph. A light wash on the left keeps the title readable.
+#quarto-header .navbar {
+  position: relative;
+  min-height: 10.5rem;
+  background-color: #1e4d3a;
+  background-image: url("/images/header.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  align-items: center;
+}
+
+#quarto-header .navbar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(8, 24, 18, 0.55) 0%,
+    rgba(8, 24, 18, 0.22) 32%,
+    rgba(8, 24, 18, 0.05) 62%,
+    rgba(8, 24, 18, 0) 100%
+  );
+  pointer-events: none;
+}
+
+#quarto-header .navbar > .navbar-container {
+  position: relative;
+  z-index: 1;
+}
+
+#quarto-header .navbar-brand,
+#quarto-header .navbar-title,
+#quarto-header .quarto-navigation-tool,
+#quarto-header .quarto-color-scheme-toggle,
+#quarto-header .navbar-toggler {
+  color: #fff;
+}
+
+#quarto-header .navbar-title,
+#quarto-header .nav-link,
+#quarto-header .navbar-toggler,
+#quarto-header .quarto-navigation-tool {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.55);
+}
+
+@media (max-width: 991.98px) {
+  #quarto-header .navbar-collapse {
+    background: #12261e;
+    border-radius: 0.4rem;
+    margin-top: 0.35rem;
+    padding: 0.35rem 0.75rem 0.5rem;
+  }
+
+  #quarto-header .navbar-collapse .nav-link {
+    color: #fff;
+    text-shadow: none;
+  }
+
+  #quarto-header .navbar-collapse .nav-link.active,
+  #quarto-header .navbar-collapse .nav-link:hover,
+  #quarto-header .navbar-collapse .nav-link:focus {
+    color: #f3e6c4;
+  }
+}
+
+.home-intro {
+  font-size: 1.08rem;
+}
+
+.hanging-indent .csl-entry,
+.hanging-indent p {
+  margin-bottom: 0.85rem;
+  padding-left: 2.5rem;
+  text-indent: -2.5rem;
+}
