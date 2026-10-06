@@ -1,45 +1,51 @@
 ---
 title: "Aud H. Halbritter"
-subtitle: "Plant ecologist, University of Bergen"
-about:
-  id: home-bio
-  template: solana
-  image: images/home/field-1.jpg
-  image-alt: "A flowering alpine shrub in front of snow-covered mountains"
-  links:
-    - text: Email
-      icon: envelope
-      href: mailto:me@audhalbritter.com
-    - text: ORCID
-      icon: link
-      href: https://orcid.org/0000-0003-2597-6328
-    - text: GitHub
-      icon: github
-      href: https://github.com/audhalbritter
+toc: false
+title-block-style: none
+page-layout: full
 ---
 
-::: {#home-bio}
-Global climate change is a major ecosystem threat, and a fundamental understanding of how species and species interactions respond to recent climate change is needed. I combine observational and experimental research along climate gradients to tackle three major research areas:
+::: {.home-hero}
 
-- Combining climate change with evolutionary and trait-based ecology, to understand the mechanisms of adaptation to environmental change.
-- Using large-scale gradient approaches to study the interactive effects of global change drivers on biodiversity and ecosystem function.
-- Studying the mechanisms and large-scale patterns of global change ecology by synthesising across studies.
+<img src="images/aud-portrait.jpg" class="home-portrait" alt="Portrait of Aud H. Halbritter"/>
 
-These themes are expanded on the [research](research.qmd) page. Current projects include [THREE-D](research/three-d.qmd) and [NatuRA](research/natura.qmd).
+::: {.home-hero-text}
+# Aud H. Halbritter {.home-name}
+
+::: {.home-role}
+Plant ecologist, University of Bergen
+:::
+:::
+
+:::
+
+::: {.home-bio}
+I am a plant ecologist working on global-change impacts on biodiversity and ecosystem functioning, mainly in alpine and arctic ecosystems.
+To get at the processes behind plant population, community, and ecosystem responses, and at how those responses depend on context, I replicate experiments along broad environmental gradients.
+I use trait-based approaches, including intraspecific trait variation, and I use synthesis (meta-analysis and systematic reviews) to look for mechanisms and broad-scale patterns.
+More recently I have expanded my research towards applied ecology, through being a contributing author on the IPBES report on alien species and the development of ecological indicators for assessing ecosystem conditions.
+Another main research interst is Open Science practices and methodological development in ecology, where I develope tools for reproducible workflows and quantitative analysis, and designing a PhD course on Open Science.
 :::
 
 ::: {layout-ncol="2"}
 ![A bumblebee visiting a thistle](images/home/pollinator.jpg)
 
-![Seedlings in an experiment](images/home/field-2.jpg)
+![Seedlings in a reciprocal translant experiment](images/home/field-2.jpg)
 :::
 
 ## Contact
 
-Ecological and Environmental Change Research Group  
-Department of Biological Sciences and Bjerknes Centre for Climate Research  
-University of Bergen, Postboks 7803, 5020 Bergen, Norway
+::: {.contact-block}
+[Between the Fjords Research Lab](https://betweenthefjords.w.uib.no/home/)\
+[Terrestrial Ecology Research Group](https://www4.uib.no/en/research/research-groups/terrestrial-ecology)\
+[Department of Biological Sciences](https://www4.uib.no/en/faculty-of-science-and-technology/department-of-biological-sciences),\
+University of Bergen\
+Postboks 7803\
+5020 Bergen\
+Norway
 
-[me@audhalbritter.com](mailto:me@audhalbritter.com) · [aud.halbritter@uib.no](mailto:aud.halbritter@uib.no)
+[aud.halbritter [at] uib.no](#){.email-guard data-user="aud.halbritter" data-domain="uib.no"}\
+[me [at] audhalbritter.com](#){.email-guard data-user="me" data-domain="audhalbritter.com"}
 
-ORCID [0000-0003-2597-6328](https://orcid.org/0000-0003-2597-6328)
+[GitHub](https://github.com/audhalbritter) · ORCID [0000-0003-2597-6328](https://orcid.org/0000-0003-2597-6328)
+:::

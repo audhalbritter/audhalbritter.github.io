@@ -4,6 +4,7 @@ project:
   execute-dir: project
   resources:
     - images/header.jpg
+    - js/email-guard.js
 
 website:
   title: "Aud H. Halbritter"
@@ -33,23 +34,9 @@ website:
       - href: cv/cv.qmd
         text: CV
     tools:
-      - icon: envelope
-        href: mailto:me@audhalbritter.com
-        aria-label: Email
       - icon: github
         href: https://github.com/audhalbritter
         aria-label: GitHub
-  page-footer:
-    border: true
-    left: "Department of Biological Sciences, University of Bergen"
-    right:
-      - text: Email
-        href: mailto:me@audhalbritter.com
-      - text: ORCID
-        href: https://orcid.org/0000-0003-2597-6328
-      - text: GitHub
-        href: https://github.com/audhalbritter
-
 format:
   html:
     theme:
@@ -58,6 +45,7 @@ format:
     toc: true
     link-external-newwindow: true
     lang: en
+    include-after-body: includes/email-guard.html
 
 execute:
   echo: false
