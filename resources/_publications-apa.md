@@ -12,36 +12,10 @@ href="https://doi.org/10.1111/2041-210x.70338">https://doi.org/10.1111/2041-210x
 MacDougall, A. S., Vanzant, B., Sulik, J., Bagchi, S., Naidu, D.,
 Muraina, T. O., Seabloom, E. W., Borer, E. T., Wilfahrt, P., Slette, I.,
 Hierro, J. L., Pearson, D. E., Abedi, M., Akasaka, M., Alberti, J.,
-Aleksanyan, A., Amisu, A. A., Anderson, T. M., Arnillas, C. A., Ayer,
-M., Bakker, J. D., Basant, S., Basto, S., Biederman, L., Bloodworth, K.
-J., Boscutti, F., Boughton, E. H., Bruschetti, C. M., Buckley, H. L.,
-Buckley, Y. M., Bugalho, M. N., Caldeira, M. C., Campetella, G.,
-Cannone, N., Carbognani, M., Carbutt, C., Carniello, M. A., Cervellini,
-M., Chaudhary, T., Chen, Q., Clark, A. T., Cousins, S., Dalle Fratte,
-M., Day, N. J., Deák, B., Dietrich, J., Dixon, A., Eisenhauer, N.,
-Elgersma, K. J., Eren, O., Eskelinen, A., Estrada, C., Fay, P. A.,
-Fayvush, G., Flynn, K. C., García Meza, D., Gargano, D., Gherardi, L.,
-Girkin, N. T., González, L., Graff, P., Hagenberg, L. W. C., <strong>Halbritter,
-A. H.</strong>, Havrilchak, N. A., Herdoiza, N., Hersch-Green, E., Hopping, K.,
-Jentsch, A., Jimoh, S. O., Kerby, J., Kirkman, K., Knops, J. M. H.,
-Koerner, S. E., Koltz, A., Komatsu, K. J., Koura, B. I., Kruse, S.,
-Laanisto, L., Lannes, L. S., Li, W., Liang, M., Lkhagva, A.,
-López-Olmedo, L., Lorenzo, P., Lortie, C. J., Loydi, A., Luo, W., Macek,
-P., Malfasi, F., Mariotte, P., Martina, J. P., Martínez-Blancas, A.,
-Martinson, H., Martorell, C., Meave, J. A., Medina-Villar, S., Mganga,
-K. Z., Monsimet, J., Nerlekar, A. N., Niu, S., Ohlert, T., Oliveras
-Menor, I., Oñatibia, G. R., Ortega, Y. K., Osborne, B., Palpurina, S.,
-Pascual, J., Pennings, S. C., Pérez-García, E., Peri, P. L., Petit Bon,
-M., Petraglia, A., Pijcke, F., Prober, S. M., Quiroga, R. E., Ramirez,
-J. I., Reed, S., Rosado, B. H. P., Roscher, C., Rowley, D. W., Sereda,
-I., Small, D. M., Smith, N. G., Song, Y., Stevens, C., Suarez Jimenez,
-L. E., Beest, M. te, Tedder, M., Terry, R. S., Thornton, K. S., Tian,
-D., Titcomb, G., Valkó, O., ‘Ciska’ Veen, G. F., Virtanen, R., Welti, E.
-A. R., Wheeler, G. R., Wolf, A. A., Wolff, P., Young, A. L., Young, H.
-S., Zeglin, L. H., Zhu, K., Zong, S., &amp; Siewert, M. B. (2026). The
-global extent of the grassland biome and implications for the
-terrestrial carbon sink. <em>Nature Ecology &amp; Evolution</em>,
-<em>10</em>(2), 246–257. <a
+Aleksanyan, A., Amisu, A. A., Anderson, T. M., Arnillas, C. A., …
+Siewert, M. B. (2026). The global extent of the grassland biome and
+implications for the terrestrial carbon sink. <em>Nature Ecology &amp;
+Evolution</em>, <em>10</em>(2), 246–257. <a
 href="https://doi.org/10.1038/s41559-025-02955-6">https://doi.org/10.1038/s41559-025-02955-6</a>
 </div>
 </div>
@@ -53,10 +27,9 @@ href="https://doi.org/10.1038/s41559-025-02955-6">https://doi.org/10.1038/s41559
 Erkelenz, J., Geange, S. R., Atkinson, J., Anderson, E., Correia, M.,
 Ahler, S. J., Bradler, P., Löwenstein, C. E., Elsy, A., Maré, C.,
 Eshelman, S., Mauki, D., Guclu, C., Eckberg, J., Maitner, B., Gya, R.,
-Töpper, J., Klanderud, K., Enquist, B. J., Michaletz, S. T., Ray, C. A.,
-Oppen, J. von, Cubino, J. P., <strong>Halbritter, A. H.</strong>, &amp; Vandvik, V.
-(2025). Intraspecific functional trait responses to experimental warming
-vary with precipitation and growth form. <em>Journal of Vegetation
+Töpper, J., Klanderud, K., Enquist, B. J., … Vandvik, V. (2025).
+Intraspecific functional trait responses to experimental warming vary
+with precipitation and growth form. <em>Journal of Vegetation
 Science</em>, <em>36</em>(6). <a
 href="https://doi.org/10.1111/jvs.70098">https://doi.org/10.1111/jvs.70098</a>
 </div>
@@ -74,12 +47,10 @@ href="https://doi.org/10.1111/2041-210x.70161">https://doi.org/10.1111/2041-210x
 <strong>Halbritter, A. H.</strong>, Atkinson, J., Maré, C., Ahler, S. J., Andersen, E. A.
 S., Bradler, P. M., Correia, M., Elsy, A., Eshelman, S. E., Geange, S.
 R., Hayden, M., Mauki, D., Eckberg, J., Erkelenz, J., Guclu, C.,
-Löwenstein, C. E., Maitner, B. S., Baumane, M., Dawson, H. R., Enquist,
-B., Garen, J. C., Holle, M. J. M., Labella, J. C., Lepley, K.,
-Michaletz, S. T., Olivier, B., Ray, C. A., Oppen, J. von, Telford, R.
-J., &amp; Vandvik, V. (2025). Effects of warming, nitrogen and grazing
-on plant functional traits differ between alpine and sub‐alpine
-grasslands. <em>Journal of Vegetation Science</em>, <em>36</em>(5). <a
+Löwenstein, C. E., Maitner, B. S., Baumane, M., Dawson, H. R., …
+Vandvik, V. (2025). Effects of warming, nitrogen and grazing on plant
+functional traits differ between alpine and sub‐alpine grasslands.
+<em>Journal of Vegetation Science</em>, <em>36</em>(5). <a
 href="https://doi.org/10.1111/jvs.70061">https://doi.org/10.1111/jvs.70061</a>
 </div>
 <div id="ref-hegland2025" class="csl-entry">
@@ -94,12 +65,9 @@ Roos, R. E., Kemppinen, J., Niittynen, P., Vandvik, V., Althuizen, I.,
 Eidesen, P. B., Enquist, B. J., Gabrielsen, G. W., Henn, J. J.,
 Jónsdóttir, I. S., Klanderud, K., Lang, S. I., Lepley, K.,
 Macias‐Fauria, M., Maitner, B. S., Malhi, Y., Michaletz, S. T., Telford,
-R. J., Bass, P., Castorena, M., Haugum, S. V., Li, Y., Linabury, M. C.,
-Neto‐Bradley, B. M., Ng, M., Pánková, K., Spiegel, M. P., Thomson, E.
-R., Vilca‐Bustamante, L. L., &amp; <strong>Halbritter, A. H.</strong> (2025).
-Marine‐derived nutrients shape the functional composition of <span>High
-Arctic</span> plant communities. <em>Functional Ecology</em>,
-<em>39</em>(6), 1606–1621. <a
+R. J., Bass, P., … <strong>Halbritter, A. H.</strong> (2025). Marine‐derived nutrients
+shape the functional composition of <span>High Arctic</span> plant
+communities. <em>Functional Ecology</em>, <em>39</em>(6), 1606–1621. <a
 href="https://doi.org/10.1111/1365-2435.70056">https://doi.org/10.1111/1365-2435.70056</a>
 </div>
 </div>
@@ -111,13 +79,10 @@ href="https://doi.org/10.1111/1365-2435.70056">https://doi.org/10.1111/1365-2435
 Bektaş, B., Chisholm, C., Egelkraut, D., Lynn, J., Block, S., Deola, T.,
 Dommanget, F., Enquist, B. J., Goldberg, D. E., Haider, S., <strong>Halbritter,
 A. H.</strong>, He, Y., Jaunatre, R., Jentsch, A., Klanderud, K., Kardol, P.,
-Lachmuth, S., Loucougaray, G., Münkemüller, T., Niedrist, G., Nomoto,
-H., Seltzer, L., Paul Töpper, J., Rew, L. J., Seipel, T., Shah, M. A.,
-James Telford, R., Walker, T. W. N., Wang, S., Wardle, D. A., Wolff, P.,
-Yang, Y., Vandvik, V., &amp; Alexander, J. M. (2024). Colonization and
-extinction lags drive non‐linear responses to warming in mountain plant
-communities across the <span>Northern Hemisphere</span>.
-<em>Ecography</em>. <a
+Lachmuth, S., Loucougaray, G., Münkemüller, T., … Alexander, J. M.
+(2024). Colonization and extinction lags drive non‐linear responses to
+warming in mountain plant communities across the <span>Northern
+Hemisphere</span>. <em>Ecography</em>. <a
 href="https://doi.org/10.1111/ecog.07378">https://doi.org/10.1111/ecog.07378</a>
 </div>
 <div id="ref-vassvik2024" class="csl-entry">
@@ -184,18 +149,8 @@ href="https://doi.org/10.1371/journal.pone.0278339">https://doi.org/10.1371/jour
 Rixen, C., Høye, T. T., Macek, P., Aerts, R., Alatalo, J. M., Anderson,
 J. T., Arnold, P. A., Barrio, I. C., Bjerke, J. W., Björkman, M. P.,
 Blok, D., Blume-Werry, G., Boike, J., Bokhorst, S., Carbognani, M.,
-Christiansen, C. T., Convey, P., Cooper, E. J., Cornelissen, J. H. C.,
-Coulson, S. J., Dorrepaal, E., Elberling, B., Elmendorf, S. C.,
-Elphinstone, C., Forte, T. G. W., Frei, E. R., Geange, S. R., Gehrmann,
-F., Gibson, C., Grogan, P., <strong>Halbritter, A. H.</strong>, Harte, J., Henry, G. H.
-R., Inouye, D. W., Irwin, R. E., Jespersen, G., Jónsdóttir, I. S., Jung,
-J. Y., Klinges, D. H., Kudo, G., Lämsä, J., Lee, H., Lembrechts, J. J.,
-Lett, S., Lynn, J. S., Mann, H. M. R., Mastepanov, M., Morse, J.,
-Myers-Smith, I. H., Olofsson, J., Paavola, R., Petraglia, A., Phoenix,
-G. K., Semenchuk, P., Siewert, M. B., Slatyer, R., Spasojevic, M. J.,
-Suding, K., Sullivan, P., Thompson, K. L., Väisänen, M., Vandvik, V.,
-Venn, S., Walz, J., Way, R., Welker, J. M., Wipf, S., &amp; Zong, S.
-(2022). Winters are changing: Snow effects on <span
+Christiansen, C. T., Convey, P., Cooper, E. J., Cornelissen, J. H. C., …
+Zong, S. (2022). Winters are changing: Snow effects on <span
 class="nocase">Arctic and alpine</span> tundra ecosystems. <em>Arctic
 Science</em>, <em>8</em>(3), 572–608. <a
 href="https://doi.org/10.1139/as-2020-0058">https://doi.org/10.1139/as-2020-0058</a>
@@ -205,88 +160,8 @@ Lembrechts, J. J., Hoogen, J. van den, Aalto, J., Ashcroft, M. B., De
 Frenne, P., Kemppinen, J., Kopecký, M., Luoto, M., Maclean, I. M. D.,
 Crowther, T. W., Bailey, J. J., Haesen, S., Klinges, D. H., Niittynen,
 P., Scheffers, B. R., Van Meerbeek, K., Aartsma, P., Abdalaze, O.,
-Abedi, M., Aerts, R., Ahmadian, N., Ahrends, A., Alatalo, J. M.,
-Alexander, J. M., Allonsius, C. N., Altman, J., Ammann, C., Andres, C.,
-Andrews, C., Ardö, J., Arriga, N., Arzac, A., Aschero, V., Assis, R. L.,
-Assmann, J. J., Bader, M. Y., Bahalkeh, K., Barančok, P., Barrio, I. C.,
-Barros, A., Barthel, M., Basham, E. W., Bauters, M., Bazzichetto, M.,
-Marchesini, L. B., Bell, M. C., Benavides, J. C., Benito Alonso, J. L.,
-Berauer, B. J., Bjerke, J. W., Björk, R. G., Björkman, M. P.,
-Björnsdóttir, K., Blonder, B., Boeckx, P., Boike, J., Bokhorst, S.,
-Brum, B. N. S., Brůna, J., Buchmann, N., Buysse, P., Camargo, J. L.,
-Campoe, O. C., Candan, O., Canessa, R., Cannone, N., Carbognani, M.,
-Carnicer, J., Casanova‐Katny, A., Cesarz, S., Chojnicki, B., Choler, P.,
-Chown, S. L., Cifuentes, E. F., Čiliak, M., Contador, T., Convey, P.,
-Cooper, E. J., Cremonese, E., Curasi, S. R., Curtis, R., Cutini, M.,
-Dahlberg, C. J., Daskalova, G. N., Pablo, M. A. de, Della Chiesa, S.,
-Dengler, J., Deronde, B., Descombes, P., Di Cecco, V., Di Musciano, M.,
-Dick, J., Dimarco, R. D., Dolezal, J., Dorrepaal, E., Dušek, J.,
-Eisenhauer, N., Eklundh, L., Erickson, T. E., Erschbamer, B., Eugster,
-W., Ewers, R. M., Exton, D. A., Fanin, N., Fazlioglu, F., Feigenwinter,
-I., Fenu, G., Ferlian, O., Fernández Calzado, M. R., Fernández‐Pascual,
-E., Finckh, M., Higgens, R. F., Forte, T. G. W., Freeman, E. C., Frei,
-E. R., Fuentes‐Lillo, E., García, R. A., García, M. B., Géron, C.,
-Gharun, M., Ghosn, D., Gigauri, K., Gobin, A., Goded, I., Goeckede, M.,
-Gottschall, F., Goulding, K., Govaert, S., Graae, B. J., Greenwood, S.,
-Greiser, C., Grelle, A., Guénard, B., Guglielmin, M., Guillemot, J.,
-Haase, P., Haider, S., <strong>Halbritter, A. H.</strong>, Hamid, M., Hammerle, A.,
-Hampe, A., Haugum, S. V., Hederová, L., Heinesch, B., Helfter, C.,
-Hepenstrick, D., Herberich, M., Herbst, M., Hermanutz, L., Hik, D. S.,
-Hoffrén, R., Homeier, J., Hörtnagl, L., Høye, T. T., Hrbacek, F.,
-Hylander, K., Iwata, H., Jackowicz‐Korczynski, M. A., Jactel, H.,
-Järveoja, J., Jastrzębowski, S., Jentsch, A., Jiménez, J. J.,
-Jónsdóttir, I. S., Jucker, T., Jump, A. S., Juszczak, R., Kanka, R.,
-Kašpar, V., Kazakis, G., Kelly, J., Khuroo, A. A., Klemedtsson, L.,
-Klisz, M., Kljun, N., Knohl, A., Kobler, J., Kollár, J., Kotowska, M.
-M., Kovács, B., Kreyling, J., Lamprecht, A., Lang, S. I., Larson, C.,
-Larson, K., Laska, K., Maire, G. le, Leihy, R. I., Lens, L., Liljebladh,
-B., Lohila, A., Lorite, J., Loubet, B., Lynn, J., Macek, M., Mackenzie,
-R., Magliulo, E., Maier, R., Malfasi, F., Máliš, F., Man, M., Manca, G.,
-Manco, A., Manise, T., Manolaki, P., Marciniak, F., Matula, R.,
-Mazzolari, A. C., Medinets, S., Medinets, V., Meeussen, C., Merinero,
-S., Mesquita, R. de C. G., Meusburger, K., Meysman, F. J. R., Michaletz,
-S. T., Milbau, A., Moiseev, D., Moiseev, P., Mondoni, A., Monfries, R.,
-Montagnani, L., Moriana‐Armendariz, M., Morra di Cella, U., Mörsdorf,
-M., Mosedale, J. R., Muffler, L., Muñoz‐Rojas, M., Myers, J. A.,
-Myers‐Smith, I. H., Nagy, L., Nardino, M., Naujokaitis‐Lewis, I.,
-Newling, E., Nicklas, L., Niedrist, G., Niessner, A., Nilsson, M. B.,
-Normand, S., Nosetto, M. D., Nouvellon, Y., Nuñez, M. A., Ogaya, R.,
-Ogée, J., Okello, J., Olejnik, J., Olesen, J. E., Opedal, Ø. H.,
-Orsenigo, S., Palaj, A., Pampuch, T., Panov, A. V., Pärtel, M., Pastor,
-A., Pauchard, A., Pauli, H., Pavelka, M., Pearse, W. D., Peichl, M.,
-Pellissier, L., Penczykowski, R. M., Penuelas, J., Petit Bon, M.,
-Petraglia, A., Phartyal, S. S., Phoenix, G. K., Pio, C., Pitacco, A.,
-Pitteloud, C., Plichta, R., Porro, F., Portillo‐Estrada, M., Poulenard,
-J., Poyatos, R., Prokushkin, A. S., Puchalka, R., Pușcaș, M.,
-Radujković, D., Randall, K., Ratier Backes, A., Remmele, S., Remmers,
-W., Renault, D., Risch, A. C., Rixen, C., Robinson, S. A., Robroek, B.
-J. M., Rocha, A. V., Rossi, C., Rossi, G., Roupsard, O., Rubtsov, A. V.,
-Saccone, P., Sagot, C., Sallo Bravo, J., Santos, C. C., Sarneel, J. M.,
-Scharnweber, T., Schmeddes, J., Schmidt, M., Scholten, T., Schuchardt,
-M., Schwartz, N., Scott, T., Seeber, J., Segalin de Andrade, A. C.,
-Seipel, T., Semenchuk, P., Senior, R. A., Serra‐Diaz, J. M., Sewerniak,
-P., Shekhar, A., Sidenko, N. V., Siebicke, L., Siegwart Collier, L.,
-Simpson, E., Siqueira, D. P., Sitková, Z., Six, J., Smiljanic, M.,
-Smith, S. W., Smith‐Tripp, S., Somers, B., Sørensen, M. V., Souza, J. J.
-L. L., Souza, B. I., Souza Dias, A., Spasojevic, M. J., Speed, J. D. M.,
-Spicher, F., Stanisci, A., Steinbauer, K., Steinbrecher, R.,
-Steinwandter, M., Stemkovski, M., Stephan, J. G., Stiegler, C., Stoll,
-S., Svátek, M., Svoboda, M., Tagesson, T., Tanentzap, A. J.,
-Tanneberger, F., Theurillat, J., Thomas, H. J. D., Thomas, A. D.,
-Tielbörger, K., Tomaselli, M., Treier, U. A., Trouillier, M.,
-Turtureanu, P. D., Tutton, R., Tyystjärvi, V. A., Ueyama, M., Ujházy,
-K., Ujházyová, M., Uogintas, D., Urban, A. V., Urban, J., Urbaniak, M.,
-Ursu, T., Vaccari, F. P., Van de Vondel, S., Brink, L. van den, Van
-Geel, M., Vandvik, V., Vangansbeke, P., Varlagin, A., Veen, G. F.,
-Veenendaal, E., Venn, S. E., Verbeeck, H., Verbrugggen, E., Verheijen,
-F. G. A., Villar, L., Vitale, L., Vittoz, P., Vives‐Ingla, M., Oppen, J.
-von, Walz, J., Wang, R., Wang, Y., Way, R. G., Wedegärtner, R. E. M.,
-Weigel, R., Wild, J., Wilkinson, M., Wilmking, M., Wingate, L., Winkler,
-M., Wipf, S., Wohlfahrt, G., Xenakis, G., Yang, Y., Yu, Z., Yu, K.,
-Zellweger, F., Zhang, J., Zhang, Z., Zhao, P., Ziemblińska, K.,
-Zimmermann, R., Zong, S., Zyryanov, V. I., Nijs, I., &amp; Lenoir, J.
-(2022). Global maps of soil temperature. <em>Global Change Biology</em>,
-<em>28</em>(9), 3110–3144. <a
+Abedi, M., … Lenoir, J. (2022). Global maps of soil temperature.
+<em>Global Change Biology</em>, <em>28</em>(9), 3110–3144. <a
 href="https://doi.org/10.1111/gcb.16060">https://doi.org/10.1111/gcb.16060</a>
 </div>
 </div>
@@ -309,23 +184,9 @@ href="https://doi.org/10.1088/1748-9326/abf464">https://doi.org/10.1088/1748-932
 Ely, K. S., Rogers, A., Agarwal, D. A., Ainsworth, E. A., Albert, L. P.,
 Ali, A., Anderson, J., Aspinwall, M. J., Bellasio, C., Bernacchi, C.,
 Bonnage, S., Buckley, T. N., Bunce, J., Burnett, A. C., Busch, F. A.,
-Cavanagh, A., Cernusak, L. A., Crystal-Ornelas, R., Damerow, J.,
-Davidson, K. J., De Kauwe, M. G., Dietze, M. C., Domingues, T. F.,
-Dusenge, M. E., Ellsworth, D. S., Evans, J. R., Gauthier, P. P. G.,
-Gimenez, B. O., Gordon, E. P., Gough, C. M., <strong>Halbritter, A. H.</strong>, Hanson,
-D. T., Heskel, M., Hogan, J. A., Hupp, J. R., Jardine, K., Kattge, J.,
-Keenan, T., Kromdijk, J., Kumarathunge, D. P., Lamour, J., Leakey, A. D.
-B., LeBauer, D. S., Li, Q., Lundgren, M. R., McDowell, N.,
-Meacham-Hensold, K., Medlyn, B. E., Moore, D. J. P., Negrón-Juárez, R.,
-Niinemets, Ü., Osborne, C. P., Pivovaroff, A. L., Poorter, H., Reed, S.
-C., Ryu, Y., Sanz-Saez, A., Schmiege, S. C., Serbin, S. P., Sharkey, T.
-D., Slot, M., Smith, N. G., Sonawane, B. V., South, P. F., Souza, D. C.,
-Stinziano, J. R., Stuart-Haëntjens, E., Taylor, S. H., Tejera, M. D.,
-Uddling, J., Vandvik, V., Varadharajan, C., Walker, A. P., Walker, B.
-J., Warren, J. M., Way, D. A., Wolfe, B. T., Wu, J., Wullschleger, S.
-D., Xu, C., Yan, Z., &amp; Yang, D. (2021). A reporting format for
-leaf-level gas exchange data and metadata. <em>Ecological
-Informatics</em>, <em>61</em>, 101232. <a
+Cavanagh, A., Cernusak, L. A., Crystal-Ornelas, R., Damerow, J., … Yang,
+D. (2021). A reporting format for leaf-level gas exchange data and
+metadata. <em>Ecological Informatics</em>, <em>61</em>, 101232. <a
 href="https://doi.org/10.1016/j.ecoinf.2021.101232">https://doi.org/10.1016/j.ecoinf.2021.101232</a>
 </div>
 <div id="ref-kemppinen2021" class="csl-entry">
@@ -364,29 +225,20 @@ href="https://doi.org/10.1002/ece3.7009">https://doi.org/10.1002/ece3.7009</a>
 De Boeck, H. J., Bloor, J. M. G., Aerts, R., Bahn, M., Beier, C.,
 Emmett, B. A., Estiarte, M., Grünzweig, J. M., <strong>Halbritter, A. H.</strong>, Holub,
 P., Jentsch, A., Klem, K., Kreyling, J., Kröel‐Dulay, G., Larsen, K. S.,
-Milcu, A., Roy, J., Sigurdsson, B. D., Smith, M. D., Sternberg, M.,
-Vandvik, V., Wohlgemuth, T., Nijs, I., &amp; Knapp, A. K. (2020).
-Understanding ecosystems of the future will require more than realistic
-climate change experiments – a response to <span>Korell</span> et al.
-<em>Global Change Biology</em>, <em>26</em>(2). <a
+Milcu, A., Roy, J., Sigurdsson, B. D., Smith, M. D., … Knapp, A. K.
+(2020). Understanding ecosystems of the future will require more than
+realistic climate change experiments – a response to <span>Korell</span>
+et al. <em>Global Change Biology</em>, <em>26</em>(2). <a
 href="https://doi.org/10.1111/gcb.14854">https://doi.org/10.1111/gcb.14854</a>
 </div>
 <div id="ref-gallagher2020" class="csl-entry">
 Gallagher, R. V., Falster, D. S., Maitner, B. S., Salguero-Gómez, R.,
 Vandvik, V., Pearse, W. D., Schneider, F. D., Kattge, J., Poelen, J. H.,
 Madin, J. S., Ankenbrand, M. J., Penone, C., Feng, X., Adams, V. M.,
-Alroy, J., Andrew, S. C., Balk, M. A., Bland, L. M., Boyle, B. L.,
-Bravo-Avila, C. H., Brennan, I., Carthey, A. J. R., Catullo, R.,
-Cavazos, B. R., Conde, D. A., Chown, S. L., Fadrique, B., Gibb, H.,
-<strong>Halbritter, A. H.</strong>, Hammock, J., Hogan, J. A., Holewa, H., Hope, M.,
-Iversen, C. M., Jochum, M., Kearney, M., Keller, A., Mabee, P., Manning,
-P., McCormack, L., Michaletz, S. T., Park, D. S., Perez, T. M.,
-Pineda-Munoz, S., Ray, C. A., Rossetto, M., Sauquet, H., Sparrow, B.,
-Spasojevic, M. J., Telford, R. J., Tobias, J. A., Violle, C., Walls, R.,
-Weiss, K. C. B., Westoby, M., Wright, I. J., &amp; Enquist, B. J.
-(2020). Open science principles for accelerating trait-based science
-across the <span class="nocase">Tree of Life</span>. <em>Nature Ecology
-&amp; Evolution</em>, <em>4</em>(3), 294–303. <a
+Alroy, J., Andrew, S. C., Balk, M. A., Bland, L. M., Boyle, B. L., …
+Enquist, B. J. (2020). Open science principles for accelerating
+trait-based science across the <span class="nocase">Tree of Life</span>.
+<em>Nature Ecology &amp; Evolution</em>, <em>4</em>(3), 294–303. <a
 href="https://doi.org/10.1038/s41559-020-1109-6">https://doi.org/10.1038/s41559-020-1109-6</a>
 </div>
 <div id="ref-halbritter2020" class="csl-entry">
@@ -394,11 +246,10 @@ href="https://doi.org/10.1038/s41559-020-1109-6">https://doi.org/10.1038/s41559-
 Robinson, D. A., Vicca, S., Berauer, B., Christiansen, C. T., Estiarte,
 M., Grünzweig, J. M., Gya, R., Hansen, K., Jentsch, A., Lee, H., Linder,
 S., Marshall, J., Peñuelas, J., Kappel Schmidt, I., Stuart‐Haëntjens,
-E., Wilfahrt, P., the ClimMani Working Group, &amp; Vandvik, V. (2020).
-The handbook for standardized field and laboratory measurements in
-terrestrial climate change experiments and observational studies
-(ClimEx). <em>Methods in Ecology and Evolution</em>, <em>11</em>(1),
-22–37. <a
+E., … Vandvik, V. (2020). The handbook for standardized field and
+laboratory measurements in terrestrial climate change experiments and
+observational studies (ClimEx). <em>Methods in Ecology and
+Evolution</em>, <em>11</em>(1), 22–37. <a
 href="https://doi.org/10.1111/2041-210x.13331">https://doi.org/10.1111/2041-210x.13331</a>
 </div>
 <div id="ref-lembrechts2020" class="csl-entry">
@@ -406,39 +257,9 @@ Lembrechts, J. J., Aalto, J., Ashcroft, M. B., De Frenne, P., Kopecký,
 M., Lenoir, J., Luoto, M., Maclean, I. M. D., Roupsard, O.,
 Fuentes‐Lillo, E., García, R. A., Pellissier, L., Pitteloud, C.,
 Alatalo, J. M., Smith, S. W., Björk, R. G., Muffler, L., Ratier Backes,
-A., Cesarz, S., Gottschall, F., Okello, J., Urban, J., Plichta, R.,
-Svátek, M., Phartyal, S. S., Wipf, S., Eisenhauer, N., Pușcaș, M.,
-Turtureanu, P. D., Varlagin, A., Dimarco, R. D., Jump, A. S., Randall,
-K., Dorrepaal, E., Larson, K., Walz, J., Vitale, L., Svoboda, M., Finger
-Higgens, R., <strong>Halbritter, A. H.</strong>, Curasi, S. R., Klupar, I., Koontz, A.,
-Pearse, W. D., Simpson, E., Stemkovski, M., Jessen Graae, B., Vedel
-Sørensen, M., Høye, T. T., Fernández Calzado, M. R., Lorite, J.,
-Carbognani, M., Tomaselli, M., Forte, T. G. W., Petraglia, A., Haesen,
-S., Somers, B., Van Meerbeek, K., Björkman, M. P., Hylander, K.,
-Merinero, S., Gharun, M., Buchmann, N., Dolezal, J., Matula, R., Thomas,
-A. D., Bailey, J. J., Ghosn, D., Kazakis, G., Pablo, M. A. de,
-Kemppinen, J., Niittynen, P., Rew, L., Seipel, T., Larson, C., Speed, J.
-D. M., Ardö, J., Cannone, N., Guglielmin, M., Malfasi, F., Bader, M. Y.,
-Canessa, R., Stanisci, A., Kreyling, J., Schmeddes, J., Teuber, L.,
-Aschero, V., Čiliak, M., Máliš, F., De Smedt, P., Govaert, S., Meeussen,
-C., Vangansbeke, P., Gigauri, K., Lamprecht, A., Pauli, H., Steinbauer,
-K., Winkler, M., Ueyama, M., Nuñez, M. A., Ursu, T., Haider, S.,
-Wedegärtner, R. E. M., Smiljanic, M., Trouillier, M., Wilmking, M.,
-Altman, J., Brůna, J., Hederová, L., Macek, M., Man, M., Wild, J.,
-Vittoz, P., Pärtel, M., Barančok, P., Kanka, R., Kollár, J., Palaj, A.,
-Barros, A., Mazzolari, A. C., Bauters, M., Boeckx, P., Benito Alonso,
-J., Zong, S., Di Cecco, V., Sitková, Z., Tielbörger, K., Brink, L. van
-den, Weigel, R., Homeier, J., Dahlberg, C. J., Medinets, S., Medinets,
-V., De Boeck, H. J., Portillo‐Estrada, M., Verryckt, L. T., Milbau, A.,
-Daskalova, G. N., Thomas, H. J. D., Myers‐Smith, I. H., Blonder, B.,
-Stephan, J. G., Descombes, P., Zellweger, F., Frei, E. R., Heinesch, B.,
-Andrews, C., Dick, J., Siebicke, L., Rocha, A., Senior, R. A., Rixen,
-C., Jimenez, J. J., Boike, J., Pauchard, A., Scholten, T., Scheffers,
-B., Klinges, D., Basham, E. W., Zhang, J., Zhang, Z., Géron, C.,
-Fazlioglu, F., Candan, O., Sallo Bravo, J., Hrbacek, F., Laska, K.,
-Cremonese, E., Haase, P., Moyano, F. E., Rossi, C., &amp; Nijs, I.
-(2020). SoilTemp: A global database of near‐surface temperature.
-<em>Global Change Biology</em>, <em>26</em>(11), 6616–6629. <a
+A., Cesarz, S., … Nijs, I. (2020). SoilTemp: A global database of
+near‐surface temperature. <em>Global Change Biology</em>,
+<em>26</em>(11), 6616–6629. <a
 href="https://doi.org/10.1111/gcb.15123">https://doi.org/10.1111/gcb.15123</a>
 </div>
 <div id="ref-patrick2020" class="csl-entry">
@@ -563,15 +384,7 @@ href="https://doi.org/10.1038/s41597-025-06503-6">https://doi.org/10.1038/s41597
 <strong>Halbritter, A. H.</strong>, Vandvik, V., Bison, N. N., Clark, V. R., Cross, M.,
 Greve, M., Kemppinen, J., Kühn, N., Maitner, B. S., Michaletz, S. T.,
 Navarro, J., Niittynen, P., Roux, P. C. le, White, J. D. M., Abebe, B.
-Y., Arzt, N. M., Baldaszti, L., Aragón, L., Beale, S., Birkeli, K.,
-Courtenay, A. P., Dawson, H. R., Draganova, L. K., Gillespie, L. E.,
-Goff, K. A., Gowera, A. T. D., Gualdoni-Becerra, A., Gwate, O.,
-Hagenberg, L. W. C., Hansda, P., Harris, R., Lee, J., Louw, M. A.,
-Määttänen, A.-M., Malamud, N., Malekana, L., Mc Millan, B., Rabi, N.,
-Mustri, M., Mekasha, S., Shemsu Nasir, S., Navarro-Rosales, F.,
-Ofosu-Bamfo, B., Phiri, A. Z., Rentier, E. S., Vázquez-Ribera, C.,
-Rivas, G., Satriawan, T. W., Smit, I. C., Soremi, P. A. S., Stokka, R.
-S., Šubrt, J., Trepel, J., Wieczorkowski, J. D., &amp; Enquist, B. J.
+Y., Arzt, N. M., Baldaszti, L., Aragón, L., Beale, S., … Enquist, B. J.
 (2025). Plant traits and associated ecological data from
 <span>Afromontane</span> grasslands of <span>Maloti-Drakensberg</span>,
 <span>South Africa</span>. <em>Scientific Data</em>, <em>12</em>(1). <a
@@ -582,14 +395,9 @@ Vandvik, V., <strong>Halbritter, A. H.</strong>, Macias-Fauria, M., Maitner, B. 
 Michaletz, S. T., Telford, R. J., Bison, N., Chacon-Labella, J., Cotner,
 S., Egelkraut, D., Garen, J., Gaudard, J., Geange, S. R., Rosati, M. A.,
 Andersen, E. A. S., Ahler, S. J., Atkinson, J., Baumane, M., Bradler, P.
-M., Dawson, H. R., Eckberg, J., Elsy, A. D., Erkelenz, J., Eshelman, S.
-E., Guclu, C., Gullvåg, R., Gya, R., Hartford, S., Hayden, M. T., Holle,
-M. J. M., Kullberg, A. T., Lepley, K., Correia, M., Löwenstein, C. E.,
-Maré, C., Mauki, D., Navarro, J., Oberholzer, B., Olivier, B., Olson, A.
-N., Ray, C. A., Oppen, J. von, Vorstenbosch, T., Wang, J. A., &amp;
-Enquist, B. J. (2025). Plant traits and associated ecological data from
-global change experiments and climate gradients in <span>Norway</span>.
-<em>Scientific Data</em>, <em>12</em>(1). <a
+M., … Enquist, B. J. (2025). Plant traits and associated ecological data
+from global change experiments and climate gradients in
+<span>Norway</span>. <em>Scientific Data</em>, <em>12</em>(1). <a
 href="https://doi.org/10.1038/s41597-025-05509-4">https://doi.org/10.1038/s41597-025-05509-4</a>
 </div>
 </div>
@@ -602,19 +410,10 @@ href="https://doi.org/10.1038/s41597-025-05509-4">https://doi.org/10.1038/s41597
 B. S., Michaletz, S. T., Oliveras Menor, I., Telford, R. J., Ccahuana,
 A., Cruz, R., Sallo-Bravo, J., Santos-Andrade, P. E., Vilca-Bustamante,
 L. L., Castorena, M., Chacón-Labella, J., Christiansen, C. T., Duran, S.
-M., Egelkraut, D. D., Gya, R., Haugum, S. V., Seltzer, L., Silman, M.
-R., Strydom, T., Spiegel, M. P., Barros, A., Birkeli, K., Boakye, M.,
-Chiappero, F., Chmurzynski, A., Garen, J. C., Gaudard, J., Gauthier,
-T.-L. J., Geange, S. R., Gonzales, F. N., Henn, J. J., Hošková, K.,
-Isaksen, A., Jessup, L. H., Johnson, W., Kusch, E., Lepley, K., Lift,
-M., Martyn, T. E., Muñoz Mazon, M., Middleton, S. L., Quinteros
-Casaverde, N. L., Navarro, J., Zepeda, V., Ocampo-Zuleta, K.,
-Palomino-Cardenas, A. C., Pastor Ploskonka, S., Pierfederici, M. E.,
-Pinelli, V., Rickenback, J., Roos, R. E., Rui, H. S., Sanchez Diaz, E.,
-Sánchez-Tapia, A., Smith, A., Urquiaga-Flores, E., Oppen, J. von, &amp;
-Enquist, B. J. (2024). Plant trait and vegetation data along a 1314 m
-elevation gradient with fire history in <span>Puna</span> grasslands,
-<span>Perú</span>. <em>Scientific Data</em>, <em>11</em>(1). <a
+M., Egelkraut, D. D., Gya, R., … Enquist, B. J. (2024). Plant trait and
+vegetation data along a 1314 m elevation gradient with fire history in
+<span>Puna</span> grasslands, <span>Perú</span>. <em>Scientific
+Data</em>, <em>11</em>(1). <a
 href="https://doi.org/10.1038/s41597-024-02980-3">https://doi.org/10.1038/s41597-024-02980-3</a>
 </div>
 </div>
@@ -627,11 +426,8 @@ Vandvik, V., <strong>Halbritter, A. H.</strong>, Althuizen, I. H. J., Christians
 T., Henn, J. J., Jónsdóttir, I. S., Klanderud, K., Macias-Fauria, M.,
 Malhi, Y., Maitner, B. S., Michaletz, S., Roos, R. E., Telford, R. J.,
 Bass, P., Björnsdóttir, K., Bustamante, L. L. V., Chmurzynski, A., Chen,
-S., Haugum, S. V., Kemppinen, J., Lepley, K., Li, Y., Linabury, M.,
-Matos, I. S., Neto-Bradley, B. M., Ng, M., Niittynen, P., Östman, S.,
-Pánková, K., Roth, N., Castorena, M., Spiegel, M., Thomson, E., Vågenes,
-A. S., &amp; Enquist, B. J. (2023). Plant traits and associated data
-from a warming experiment, a seabird colony, and along elevation in
+S., Haugum, S. V., … Enquist, B. J. (2023). Plant traits and associated
+data from a warming experiment, a seabird colony, and along elevation in
 <span>Svalbard</span>. <em>Scientific Data</em>, <em>10</em>(1). <a
 href="https://doi.org/10.1038/s41597-023-02467-7">https://doi.org/10.1038/s41597-023-02467-7</a>
 </div>
@@ -659,13 +455,11 @@ href="https://doi.org/10.1038/s41597-022-01559-0">https://doi.org/10.1038/s41597
 Vandvik, V., <strong>Halbritter, A. H.</strong>, Yang, Y., He, H., Zhang, L., Brummer, A.
 B., Klanderud, K., Maitner, B. S., Michaletz, S. T., Sun, X., Telford,
 R. J., Wang, G., Althuizen, I. H. J., Henn, J. J., Garcia, W. F. E.,
-Gya, R., Jaroszynska, F., Joyce, B. L., Lehman, R., Moerland, M. S.,
-Nesheim-Hauge, E., Nordås, L. H., Peng, A., Ponsac, C., Seltzer, L.,
-Steyn, C., Sullivan, M. K., Tjendra, J., Xiao, Y., Zhao, X., &amp;
-Enquist, B. J. (2020). Plant traits and vegetation data from climate
-warming experiments along an 1100 m elevation gradient in
-<span>Gongga</span> mountains, <span>China</span>. <em>Scientific
-Data</em>, <em>7</em>(1). <a
+Gya, R., Jaroszynska, F., Joyce, B. L., Lehman, R., … Enquist, B. J.
+(2020). Plant traits and vegetation data from climate warming
+experiments along an 1100 m elevation gradient in <span>Gongga</span>
+mountains, <span>China</span>. <em>Scientific Data</em>, <em>7</em>(1).
+<a
 href="https://doi.org/10.1038/s41597-020-0529-0">https://doi.org/10.1038/s41597-020-0529-0</a>
 </div>
 </div>

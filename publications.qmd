@@ -5,8 +5,6 @@ toc-depth: 2
 
 42 papers, 12 as first author and 5 as senior author. Google Scholar: 2643 citations, h-index 23. Web of Science: 1636 citations, h-index 19. Counts are from the CV, updated April 2026.
 
-Journal articles and data papers are in APA style, grouped by year, with every author listed. **Halbritter, A. H.** is shown in bold.
-
 ## Journal articles
 
 {{< include resources/_publications-apa.md >}}

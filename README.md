@@ -13,7 +13,7 @@ python3 scripts/build_bibliography.py
 quarto render
 ```
 
-`resources/works.bib` is the bibliography. The Publications page lists journal articles and data papers in APA style, grouped by year, with every author. The same script writes `resources/_journal-articles.md`, which the CV includes in a shorter form, and `resources/_presentations.md`.
+`resources/works.bib` is the bibliography. The Publications page lists journal articles and data papers in APA style, grouped by year. For 21 or more authors, APA shows the first 19, an ellipsis, and the last author. The same script writes `resources/_journal-articles.md`, which the CV includes in a shorter form, and `resources/_presentations.md`.
 
 ## Update the CV
 

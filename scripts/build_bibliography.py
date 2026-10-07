@@ -345,18 +345,12 @@ def bold_halbritter(fragment: str) -> str:
 
 
 def apa_entries() -> dict[str, str]:
-    """Render every work in APA with the full author list.
+    """Render every work in APA 7th edition.
 
-    Stock APA stops at 20 names. The publications page needs every author,
-    so this uses the same style with that cutoff removed.
+    Up to 20 authors are listed in full. For 21 or more, APA shows the first
+    19, an ellipsis, and the final author.
     """
-    source = (ROOT / "resources" / "apa.csl").read_text(encoding="utf-8")
-    source = source.replace(
-        'et-al-min="21" et-al-use-first="19" et-al-use-last="true"',
-        'et-al-min="500" et-al-use-first="500"',
-    )
-    csl = CACHE / "apa-full.csl"
-    csl.write_text(source, encoding="utf-8")
+    csl = ROOT / "resources" / "apa.csl"
     result = subprocess.run(
         [
             "pandoc",
@@ -376,11 +370,7 @@ def apa_entries() -> dict[str, str]:
     rendered: dict[str, str] = {}
     parts = re.split(r'<div id="ref-([^"]+)" class="csl-entry"[^>]*>', result.stdout)
     for key, chunk in zip(parts[1::2], parts[2::2]):
-        body = bold_halbritter(chunk.split("</div>", 1)[0].strip())
-        author_list = body.split("(20", 1)[0]
-        if "et al" in author_list or "…" in author_list:
-            raise SystemExit(f"{key} still truncates the author list")
-        rendered[key] = body
+        rendered[key] = bold_halbritter(chunk.split("</div>", 1)[0].strip())
     return rendered
 
 
