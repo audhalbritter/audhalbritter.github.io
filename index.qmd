@@ -44,8 +44,7 @@ Postboks 7803\
 5020 Bergen\
 Norway
 
-[aud.halbritter [at] uib.no](#){.email-guard data-user="aud.halbritter" data-domain="uib.no"}\
-[me [at] audhalbritter.com](#){.email-guard data-user="me" data-domain="audhalbritter.com"}
+[aud.halbritter [at] uib.no](#){.email-guard data-user="aud.halbritter" data-domain="uib.no"}
 
 [GitHub](https://github.com/audhalbritter) · ORCID [0000-0003-2597-6328](https://orcid.org/0000-0003-2597-6328)
 :::
