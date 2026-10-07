@@ -1,15 +1,33 @@
+# Quarto
 .quarto/
+/.quarto/
 _site/
+**/*.quarto_ipynb
+*_cache/
+*_files/
+
+# R
 .Rhistory
 .RData
 .Rproj.user/
-scripts/.cache/
-*_cache/
-*_files/
-.DS_Store
 
-/.quarto/
-**/*.quarto_ipynb
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Crossref / script caches
+scripts/.cache/
+
+# OS / editor
+.DS_Store
+*~
+*.swp
+*.swo
+
+# Word lock files
+~$*
 
 # Private CV source files — keep local only
 CV Aud Halbritter.doc
@@ -18,3 +36,7 @@ cv/aud-halbritter-cv.pdf
 cv/cv.pdf
 docs/cv/aud-halbritter-cv.pdf
 docs/cv/cv.pdf
+
+# Full original portrait; the site uses images/aud-portrait.jpg
+images/aud.JPG
+docs/images/aud.JPG
